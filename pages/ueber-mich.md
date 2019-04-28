@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "ueber-mich"
+title: "Über mich"
 meta_title: "Über mich"
 subheadline: ""
 teaser: ""
