@@ -1,0 +1,27 @@
+- title: Startseite
+  url: "/"
+  side: left
+
+- title: Über mich
+  url: "/ueber-mich/"
+  side: left
+
+- title: "Traditionelles für die Lederhose"
+  url: "/lederhose/"
+  side: left
+
+- title: "Scharfes für die Küche"
+  url: "/kueche/"
+  side: left
+
+- title: "Latein für Fischer, Jäger und andere"
+  url: "/fischer-jaeger-andere/"
+  side: left
+  
+- title: "Datenschutz"
+  url: "/datenschutz/"
+  side: right
+
+- title: Kontakt
+  url: "/kontakt/"
+  side: right
