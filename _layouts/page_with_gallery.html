@@ -42,10 +42,11 @@ format: post
 			<!-- ### start of the gallery definition ### -->
 			<div id="nanogallery2" data-nanogallery2='{"thumbnailHeight":  150, "thumbnailWidth":   150, "itemsBaseURL":     "https://nanogallery2.nanostudio.org/samples/" }'>
 				  
-			  <!-- gallery content -->
-			  <a href= "berlin1.jpg" data-ngThumb="berlin1_t.jpg">Berlin 1</a>
-			  <a href= "berlin2.jpg" data-ngThumb="berlin2_t.jpg">Berlin 2</a>
-			  <a href= "berlin3.jpg" data-ngThumb="berlin2_t.jpg">Berlin 3</a>
+				{% assign gallerydata = site.data.galleryimages[page.galleryimageskey] %}				
+				{% for img in gallerydata %}
+				  <a href="{{ site.url }}{{ site.baseurl }}/assets/galleryimages/{{ img.filename }}" data-ngThumb="{{ site.url }}{{ site.baseurl }}/assets/galleryimages/{{ img.filename }}" data-ngdesc="{{img.description}}">{{ img.title }}</a>
+				{% endfor %}
+				  
 			</div>
 			<!-- ### end of the gallery definition ### -->
 

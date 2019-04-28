@@ -5,6 +5,7 @@ meta_title: "Traditionelles für die Lederhose"
 subheadline: ""
 teaser: ""
 permalink: "/lederhose/"
+galleryimageskey: "lederhose"
 ---
 
 
