@@ -9,6 +9,4 @@ galleryimageskey: "start"
 ---
 
 
-startpage
-
-gallery
+Willkommen!
