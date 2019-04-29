@@ -6,7 +6,8 @@ subheadline: "Wufoo-powered contact forms"
 teaser: "Get in touch with me? Use the contact form."
 permalink: "/kontakt/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
-
-
- [1]: http://www.wufoo.com/
+<form method="POST" action="https://formspree.io/f.weinberger@nod.at">
+  <input type="email" name="email" placeholder="Your email">
+  <textarea name="message" placeholder="Test Message"></textarea>
+  <button type="submit">Send Test</button>
+</form>
