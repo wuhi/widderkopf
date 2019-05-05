@@ -9,4 +9,4 @@ galleryimageskey: "start"
 ---
 
 
-Willkommen!
+Willkommen auf meiner Homepage, hier ein kleiner Einblick über meine Arbeit
