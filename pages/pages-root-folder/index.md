@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page_with_gallery
 title: "Widderkopf.at"
 meta_title: "Widderkopf.at"
