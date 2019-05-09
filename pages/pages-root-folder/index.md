@@ -1,4 +1,4 @@
----
+﻿---
 layout: page_with_gallery
 title: "Widderkopf.at"
 meta_title: "Widderkopf.at"
@@ -9,4 +9,4 @@ galleryimageskey: "start"
 ---
 
 
-Willkommen auf meiner Homepage, hier ein kleiner Einblick �ber meine Arbeit.
+Willkommen auf meiner Homepage, hier ein kleiner Einblick über meine Arbeit.
