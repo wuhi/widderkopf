@@ -1,10 +1,38 @@
-﻿- gallerytext: "test test!! test"
+﻿- gallerytext: "“Des Fischers Freude”
+Mit besonderem Wert auf die rasiermesserscharfe Klinge, wurde hier ein sehr
+funktionelles und gefälliges Messer gebaut. Laut einer Info vom Kunden, war beim ersten
+Einsatz der Fisch, samt dem zum Schutz getragenem Handschuh, durchschnitten.
+"
   images:
-    - title: "oans"
-      filename: "start/20160703_124959.jpg"
-      description: "test 1234"
+    - title: "Klinge Mono-Stahl gehärtet auf  63°Rockwell, Griff Zwetschke mit Messing,Kuhhorn, Vulkanfieber und Zierpin"
+      filename: "start/Fischer1.jpg"
+      description: 
 
-    - title: "zwoa"
-      filename: "start/20160703_130659.jpg"
-      description: "test 4567"
+    - title: "Detailansicht Griff"
+      filename: "start/Fischer2.jpg"
+      description: 
       
+    - title: "Detailansicht Klinge"
+      filename: "start/Fischer3.jpg"
+      description: 
+      
+      
+- gallerytext: "“Braumeister”
+Hier wurde der Wunsch “lass dir was für einen Bierbrauer einfallen” umgesetzt.
+Die Form des Griffs ist in Anlehnung an ein Holzfass gestaltet.
+Die Scheide mit Gürtelschlaufe, ist an der Naht punziert, wurde gehärtet und gefärbt.
+"
+  images:
+    - title: "Gesamtansicht"
+      filename: "start/Braumeister1.jpg"
+      description: 
+
+    - title: "Spundloch"
+      filename: "start/Braumeister2.jpg"
+      description: 
+
+    - title: "Fassboden"
+      filename: "start/Braumeister3.jpg"
+      description: 
+
+   
