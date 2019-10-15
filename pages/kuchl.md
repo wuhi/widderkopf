@@ -7,5 +7,3 @@ teaser: ""
 permalink: "/kuchl/"
 galleryimageskey: "kueche"
 ---
-
-
