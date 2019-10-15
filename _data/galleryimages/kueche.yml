@@ -6,7 +6,7 @@ Hier wurde ein Auftrag für die Dame<br>
   images:
     - title:
       filename: "start/B&S1.jpg"
-      description: "Santoku in Carbon Damast 14 und 18cm"
+      description: "Gesamtansicht des Paares mit Aufsteller"
     - title:
       filename: "start/B&S2.jpg"
       description: "Detail der Klingen"
@@ -20,19 +20,61 @@ Hier wurde ein Auftrag für die Dame<br>
       description: "Initialen der beiden an den Griffenden"
 
 
+- gallerytext: "Haubenkoch<br>
+Hier wurde ein Santoku aus Monostahl für einen Haubenkoch vom “Christkindl” gefertigt. Der Griff besteht aus Zwetschkenholz,
+mit Damastplatte als Abschluss, sowie Büffelhorneinlage und Zierpin.
+Die Klinge ist brüniert und mit den Initialen versehen. Die Lederscheide wurde punziert,
+gefärbt und ebenfalls mit den Initialen versehen"
+  images:
+    - title:
+      filename: "Kuchl/Haubenkoch/05.jpg"
+      description: "Gesamtansicht im Aufsteller"
+    - title:
+      filename: "Kuchl/Haubenkoch/02.jpg"
+      description: "Gesamtansicht mit Lederscheide"
+
+    - title:
+      filename: "Kuchl/Haubenkoch/03.jpg"
+      description: "Detail Lederscheide"
+
+    - title:
+      filename: "Kuchl/Haubenkoch/04.jpg"
+      description: "Detail Damast Zwinge"     
+      
+    - title:
+      filename: "Kuchl/Haubenkoch/01.jpg"
+      description: "Detail Klinge"      
+      
 - gallerytext: "Auf großer Reise"
   images:
     - title:
-      filename: "Kuchl/Ansicht Einlage.jpg"
-      description: "Santoku in Carbon Damast 14 und 18cm"
+      filename: "Kuchl/Reise/01.jpg"
+      description: "Aller Anfang"
     - title:
-      filename: "start/B&S2.jpg"
-      description: "Detail der Klingen"
+      filename: "Kuchl/Reise/02.jpg"
+      description: "Griff und Klingenrohlinge"
 
     - title:
-      filename: "start/B&S3.jpg"
-      description: "Griffe in Nußbaum mit Edelstahl"
+      filename: "Kuchl/Reise/03.jpg"
+      description: "Klingenrohlinge vor dem Härten"
 
     - title:
-      filename: "start/B&S4.jpg"
-      description: "Initialen der beiden an den Griffenden"
+      filename: "Kuchl/Reise/04.jpg"
+      description: "Kurz vor der "Hochzeit""
+      
+    - title:
+      filename: "Kuchl/Reise/05.jpg"
+      description: "Detail der Hartschaumstoff Einlage"
+      
+    - title:
+      filename: "Kuchl/Reise/06.jpg"
+      description: "Gesamtansicht"
+      
+    - title:
+      filename: "Kuchl/Reise/07.jpg"
+      description: "Gesamtansicht vom offenen Reisekoffers"
+      
+    - title:
+      filename: "Kuchl/Reise/08.jpg"
+      description: "Ansicht geschlossen mit dem Familienwappen am Deckel"
+      
