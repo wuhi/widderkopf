@@ -45,36 +45,36 @@ gefärbt und ebenfalls mit den Initialen versehen"
       filename: "Kuchl/Haubenkoch/01.jpg"
       description: "Detail Klinge"      
       
-- gallerytext: "Auf großer Reise"
+gallerytext: "Auf Großer Reise<br>
+"
   images:
     - title:
       filename: "Kuchl/Reise/01.jpg"
-      description: "Aller Anfang"
+      description: "Gesamtansicht im Aufsteller"
     - title:
       filename: "Kuchl/Reise/02.jpg"
-      description: "Griff und Klingenrohlinge"
+      description: "Gesamtansicht mit Lederscheide"
 
     - title:
       filename: "Kuchl/Reise/03.jpg"
-      description: "Klingenrohlinge vor dem Härten"
+      description: "Detail Lederscheide"
 
     - title:
       filename: "Kuchl/Reise/04.jpg"
-      description: "Kurz vor der "Hochzeit""
+      description: "Detail Damast Zwinge"     
       
     - title:
       filename: "Kuchl/Reise/05.jpg"
-      description: "Detail der Hartschaumstoff Einlage"
+      description: "Detail Klinge"      
       
     - title:
       filename: "Kuchl/Reise/06.jpg"
-      description: "Gesamtansicht"
+      description: "Detail Klinge"  
       
     - title:
       filename: "Kuchl/Reise/07.jpg"
-      description: "Gesamtansicht vom offenen Reisekoffers"
+      description: "Detail Klinge"  
       
     - title:
       filename: "Kuchl/Reise/08.jpg"
-      description: "Ansicht geschlossen mit dem Familienwappen am Deckel"
-      
+      description: "Detail Klinge"  
