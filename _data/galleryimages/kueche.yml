@@ -1,4 +1,49 @@
-﻿- gallerytext: "Brüderchen und Schwesterchen
+﻿- gallerytext: "Kochbuch mal anders
+Bunka einseitig geschliffen, Geschenk an einen guten Freund, und leidenschaftlichen Koch, zum 40er. 
+Sein Erstaunen beim Öffnen des Buches, werde ich nie vergessen. 
+Die Idee zur “Verpackung” lieferte der Italo-Western Escondido in dem ein Derringer Revolver in der Bibel war.
+Zu sehen sind auch die einzelnen Scritte der Fertigung"
+  images:
+    - title:
+      filename: "Kuchl/Kochbuch/01.jpg"
+      description: "Ein altes Kreissägeblatt als Klingen Rohstoff"
+    - title:
+      filename: "Kuchl/Kochbuch/02.jpg"
+      description: "In Form gebracht"
+
+    - title:
+      filename: "Kuchl/Kochbuch/03.jpg"
+      description: "Klinge vor dem Härten"
+
+    - title:
+      filename: "Kuchl/Kochbuch/04.jpg"
+      description: "Hirschhorn für den Griff"
+      
+    - title:
+      filename: "Kuchl/Kochbuch/05.jpg"
+      description: "Tuje aus Sardinien für den Griff"
+      
+    - title: 
+      filename: "Kuchl/Kochbuch/07.jpg"
+      description: "Kurz vor der Hochzeit"
+   
+    - title:
+      filename: "Kuchl/Kochbuch/08.jpg"
+      description: "Fertiges Messer"
+   
+    - title:
+      filename: "Kuchl/Kochbuch/09.jpg"
+      description: "Noch die Verpackung"
+      
+    - title:
+      filename: "Kuchl/Kochbuch/10.jpg"
+      description: "Detailansicht von innen"
+      
+    - title:
+      filename: "Kuchl/Kochbuch/11.jpg"
+      description: "Gesamtansicht innen"
+    
+- gallerytext: "Brüderchen und Schwesterchen
 Hier wurde ein Auftrag für die Dame<br> 
 (als Weihnachtsgeschenk) und den Herrn des Hauses realisiert,
 		    Santoku in Carbon Damast 14 und 18cm, Griffe in Nußbaum mit Edelstahl,
