@@ -45,36 +45,33 @@ gefärbt und ebenfalls mit den Initialen versehen"
       filename: "Kuchl/Haubenkoch/01.jpg"
       description: "Detail Klinge"      
       
-gallerytext: "Auf Großer Reise<br>
-"
+- gallerytext: "Auf Großer Reise<br>Für diese Arbeit wurde ich von meinem lieben Freund und Nachbarn beauftragt.
+ Gemeinsam mit seiner Frau packte er seine Zelte zusammen und zog in deren neue Heimat ins Kärtner Drautal.
+ Messerset aus Inox Damast Griffe Nussbaum mit Messing, Wasserbüffel und Edelstahl am Griff-ende.
+ In den Koffer (daher der Titel) ist das Familienwappen im Deckel eingearbeitet."
   images:
     - title:
       filename: "Kuchl/Reise/01.jpg"
-      description: "Gesamtansicht im Aufsteller"
+      description: "Aller Anfang"
     - title:
       filename: "Kuchl/Reise/02.jpg"
-      description: "Gesamtansicht mit Lederscheide"
-
+      description: "Klingen und Griff-Rohlinge"
+    - title: 
+      filename: "Kuchl/Reise/04.jpg"
+      description: "Anpassen der Griffe, ganz oben das zugehörige Sackmesser für die Lederhose"
     - title:
       filename: "Kuchl/Reise/03.jpg"
-      description: "Detail Lederscheide"
-
-    - title:
-      filename: "Kuchl/Reise/04.jpg"
-      description: "Detail Damast Zwinge"     
-      
+      description: "Klingen vor dem Härten"
     - title:
       filename: "Kuchl/Reise/05.jpg"
-      description: "Detail Klinge"      
-      
+      description: "Die fertigen Messer im gefrästen Hartschaumstoff"
     - title:
       filename: "Kuchl/Reise/06.jpg"
-      description: "Detail Klinge"  
-      
+      description: "Ansicht komplett"
     - title:
       filename: "Kuchl/Reise/07.jpg"
-      description: "Detail Klinge"  
-      
+      description: "Gesamtansicht"
     - title:
       filename: "Kuchl/Reise/08.jpg"
-      description: "Detail Klinge"  
+      description: "Die Reise kann beginnen, Ansicht mit Wappen"
+    
