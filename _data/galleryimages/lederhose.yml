@@ -1,17 +1,88 @@
-- gallerytext: "test test!! test"
-  images:
-    - title: "oans"
-      filename: "start/20160703_124959.jpg"
-      description: "test 1234"
+- gallerytext: "Tapferes Schneiderlein<br>Messer für einen Schneidermeister zum 60er. Die Klinge ist aus
+ Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfieber. 
+ Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
+ und Faden eingearbeitet<br>
+"
 
-    - title: "zwoa"
-      filename: "start/20160703_130659.jpg"
-      description: "test 4567"
+  images:
+    - title: 
+      filename: "Lederhose/Schneider/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: 
+      filename: "Lederhose/Schneider/02.jpg"
+      description: "Endplatte mit Initialen"
       
-    - title: "drei"
-      filename: "start/20160709_145153.jpg"
-      description: "test 4567"
+    - title: 
+      filename: "Lederhose/Schneider/03.jpg"
+      description: "Endplatte mit Initialen"
       
-    - title: "vier"
-      filename: "start/20160709_182850.jpg"
-      description: "test 4567"
+- gallerytext: "Bayern München<br>Auch echten Fans muss man gerecht werden.
+Man sieht am Griff-Ende, dass ein schnöder Einkaufs-Chip doch auch seinen Reiz haben kann.
+Klinge aus Carbon Damast, Griff Kirschholz. Die Initialen seitlich wurden gelasert.<br>
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Bayern/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: 
+      filename: "Lederhose/Bayern/02.jpg"
+      description: "Ansicht mit Initialen"
+      
+    - title: 
+      filename: "Lederhose/Bayern/03.jpg"
+      description: "Nur für echte Fans"
+      
+      
+- gallerytext: "Edel im Detail<br> Hier wurde der Wunsch nach einem Edlem und dekorativen Objekt entsprochen.
+Klinge aus Carbon Damast, Griff aus Kirschbaum mit Rinderknochen Vulkanfieber in grün und Zierpin. Auf der eingearbeiteten 
+Messingplatte wurden die Initialen graviert. Hier habe ich auch die schrittweise Enstehung mit dokumentiert
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Putzer/01.jpg"
+      description: "Der Entwurf"
+
+    - title: 
+      filename: "Lederhose/Putzer/02.jpg"
+      description: "Entwurf am Griffholz"
+      
+    - title: 
+      filename: "Lederhose/Putzer/03.jpg"
+      description: "Zerschneiden für Einlagen"
+      
+    - title: 
+      filename: "Lederhose/Putzer/04.jpg"
+      description: "Teile neu verklebt"
+      
+    - title: 
+      filename: "Lederhose/Putzer/05.jpg"
+      description: "Auf Hochglanz vor der Hochzeit"
+      
+    - title: 
+      filename: "Lederhose/Putzer/06.jpg"
+      description: "Das fertige Messer"
+      
+      
+- gallerytext: "Patriotisch<br> Mach mir was schönes, so a bissl traditionell, war der Auftrag.
+Das Ergebnis ist eien Klinge aus Carbon Damast, Griff aus Hirschhorn und Zwetschke mit Vulkanfieber 
+in rot weiß rot. Auf der eingearbeiteten Endplatte, ebenfalls in Zwetschke, wurden die Initialen gelasert. 
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Wast/01.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Wast/04.jpg"
+      description: "Detail vorne seitlich "
+      
+    - title: 
+      filename: "Lederhose/Wast/05.jpg"
+      description: "Endplatte mit Initialen"
+      
+    
