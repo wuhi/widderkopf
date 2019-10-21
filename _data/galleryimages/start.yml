@@ -1,31 +1,42 @@
-- gallerytext: "test test!! test"
+- gallerytext: "Mehr findes du in den jeweiligen Unterkategorien"
   images:
-    - title: "oans"
-      filename: "start/20160703_124959.jpg"
-      description: "test 1234"
+    - title: "Traditionelles"
+      filename: "start/001.jpg"
+      description: "Bring me Edelweiß"
 
-    - title: "zwoa"
-      filename: "start/20160703_130659.jpg"
-      description: "test 4567"
+    - title: "Traditionelles"
+      filename: "start/Schneider.jpg"
+      description: "Schneidermeister"
+   
+    - title: "Traditionelles"
+      filename: "start/Perchten.jpg"
+      description: "Perchten"
+
+    - title: "Traditionelles"
+      filename: "start/Bayern.jpg"
+      description: "Bayern"
+
+    - title: "Scharfes für"
+      filename: "start/Kochbuch.jpg"
+      description: "Kochbuch mal anders"
+
+    - title: "Scharfes für"
+      filename: "start/Martialisch.jpg"
+      description: "Martialisch"           
+    
+    - title: "Scharfes für"
+      filename: "start/Reise.jpg"
+      description: "Auf großer Reise"
       
-    - title: "drei"
-      filename: "start/20160709_145153.jpg"
-      description: "test 4567"
-      
-    - title: "vier"
-      filename: "start/20160709_182850.jpg"
-      description: "test 4567"
-      
-- gallerytext: "“Kochbuch mal anders”
-Bunka einseitig geschliffen, Geschenk an einen guten Freund, und
-leidenschaftlichen Koch, zum 40er.
-Sein Erstaunen beim Öffnen des Buches, werde ich nie vergessen.
-Die Idee zur “Verpackung” lieferte der Italo-Western Escondido in dem ein Derringer Revolver in der Bibel war."
-  images:
-    - title: "oans"
-      filename: "start/20160703_124959.jpg"
-      description: "test 1234"
-      
-    - title: "vier"
-      filename: "start/20160709_182850.jpg"
-      description: "test 4567"
+    - title: "Latein für"
+      filename: "start/01.jpg"
+      description: "Wilde Reiterei"
+
+    - title: "Latein für"
+      filename: "start/Braumeister1.jpg"
+      description: "Braumeister"    
+
+    - title: "Latein für"
+      filename: "start/Fischer1.jpg"
+      description: "Fischermanns Freund"
+

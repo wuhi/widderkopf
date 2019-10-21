@@ -1,4 +1,4 @@
-﻿- gallerytext: "“Des Fischers Freude”
+﻿- gallerytext: "“Des Fischers Freude”<br>
 Mit besonderem Wert auf die rasiermesserscharfe Klinge, wurde hier ein sehr
 funktionelles und gefälliges Messer gebaut. Laut einer Info vom Kunden, war beim ersten
 Einsatz der Fisch, samt dem zum Schutz getragenem Handschuh, durchschnitten.
@@ -17,7 +17,7 @@ Einsatz der Fisch, samt dem zum Schutz getragenem Handschuh, durchschnitten.
       description: 
       
       
-- gallerytext: "“Braumeister”
+- gallerytext: "“Braumeister”<br>
 Hier wurde der Wunsch “lass dir was für einen Bierbrauer einfallen” umgesetzt.
 Die Form des Griffs ist in Anlehnung an ein Holzfass gestaltet.
 Die Scheide mit Gürtelschlaufe, ist an der Naht punziert, wurde gehärtet und gefärbt.
@@ -34,3 +34,30 @@ Die Scheide mit Gürtelschlaufe, ist an der Naht punziert, wurde gehärtet und g
     - title: "Fassboden"
       filename: "start/Braumeister3.jpg"
       description: ""
+
+- gallerytext: "“Wilde Reiterei”<br>
+EIn Jausenmesser zum runden Geburtstag, und dem Hinweis auf die Perdezucht des Jubilars,
+ergab dieses Schmuckstück. Griff aus Zwetschke Klinge Sandvik 14C28N Parierstück aus Neusilber. Lederscheide wurde angepasst , punziert und mit einem Magnetverschluss versehen. 
+Zur Aufbewahrung dient eine Holzbox mit zweifärbiger gefräster Hartschaumeinlage.
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Reiter/01.jpg"
+      description: "Gesamtansicht von links"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/02.jpg"
+      description: "Gesamtansicht von rechts"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/03.jpg"
+      description: "Gesamt in der Lederscheide"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/04.jpg"
+      description: "Detailansicht Griff"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/05.jpg"
+      description: "Ansicht in der Geschenkkiste"
+
