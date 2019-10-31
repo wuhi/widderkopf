@@ -85,9 +85,43 @@ in rot weiß rot. Auf der eingearbeiteten Endplatte, ebenfalls in Zwetschke, wur
       filename: "Lederhose/Wast/05.jpg"
       description: "Endplatte mit Initialen"
       
+- gallerytext: "Patriotisch<br> Mach mir was schönes, so a bissl traditionell, war der Auftrag.
+Das Ergebnis ist eien Klinge aus Carbon Damast, Griff aus Hirschhorn und Zwetschke mit Vulkanfieber 
+in rot weiß rot. Auf der eingearbeiteten Endplatte, ebenfalls in Zwetschke, wurden die Initialen gelasert. 
+"
 
+  images:
+    - title: 
+      filename: "Lederhose/Wast/01.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Wast/04.jpg"
+      description: "Detail vorne seitlich "
+      
+    - title: 
+      filename: "Lederhose/Wast/05.jpg"
+      description: "Endplatte mit Initialen"
+      
+- gallerytext: "Patriotisch<br> Mach mir was schönes, so a bissl traditionell, war der Auftrag.
+Das Ergebnis ist eien Klinge aus Carbon Damast, Griff aus Hirschhorn und Zwetschke mit Vulkanfieber 
+in rot weiß rot. Auf der eingearbeiteten Endplatte, ebenfalls in Zwetschke, wurden die Initialen gelasert. 
+"
 
-- gallerytext: "Bring me Edelweiß<br> Vorgaben des Kunden "recht gut" umgesetzt. 
+  images:
+    - title: 
+      filename: "Lederhose/Wast/01.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Wast/04.jpg"
+      description: "Detail vorne seitlich "
+      
+    - title: 
+      filename: "Lederhose/Wast/05.jpg"
+      description: "Endplatte mit Initialen"
+      
+- gallerytext: "<b><u>Bring me Edelweiß</u></b><br><br> Vorgaben des Kunden recht gut umgesetzt. 
 Griff Kombination aus Nussbaum und Hirschhorn, mit Damast Zwischeneinlagen und 
 Parierstück und den Initialen am Griff-ende. Raffiniert das Griff-ende mit einem 
 in Epoxi eingegossenem Edelweiß. Klinge Carbonstahl gehärtet auf 60° HRC. 
@@ -97,13 +131,18 @@ Lederscheide wurde ans Parierstück angepasst, gefärbt und punziert.
   images:
     - title: 
       filename: "Lederhose/Vorei/01.jpg"
-      description: "Gesamtansicht mit Scheide"          
+      description: "Gesamtansicht mit Lederscheide"
+          
     - title: 
       filename: "Lederhose/Vorei/02.jpg"
-      description: "Gesamtansicht "      
+      description: "Gesamtansicht "
+      
     - title: 
       filename: "Lederhose/Vorei/03.jpg"
-      description: "Deteil Griff mit Initialen"
+      description: "Detail vom Griff mit Initialien"
+      
     - title: 
       filename: "Lederhose/Vorei/04.jpg"
       description: "Das Edelweiß"
+      
+
