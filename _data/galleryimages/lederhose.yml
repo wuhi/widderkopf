@@ -1,4 +1,4 @@
-- gallerytext: "Tapferes Schneiderlein<br>Messer für einen Schneidermeister zum 60er. Die Klinge ist aus
+- gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er. Die Klinge ist aus
  Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfieber. 
  Passend zum Thema wurde in die Messing Endplatte ein verschraubbares “Geheimfach” mit Nadel
  und Faden eingearbeitet<br>
@@ -85,4 +85,25 @@ in rot weiß rot. Auf der eingearbeiteten Endplatte, ebenfalls in Zwetschke, wur
       filename: "Lederhose/Wast/05.jpg"
       description: "Endplatte mit Initialen"
       
-    
+
+
+- gallerytext: "Bring me Edelweiß<br> Vorgaben des Kunden "recht gut" umgesetzt. 
+Griff Kombination aus Nussbaum und Hirschhorn, mit Damast Zwischeneinlagen und 
+Parierstück und den Initialen am Griff-ende. Raffiniert das Griff-ende mit einem 
+in Epoxi eingegossenem Edelweiß. Klinge Carbonstahl gehärtet auf 60° HRC. 
+Lederscheide wurde ans Parierstück angepasst, gefärbt und punziert.
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Vorei/01.jpg"
+      description: "Gesamtansicht mit Scheide"          
+    - title: 
+      filename: "Lederhose/Vorei/02.jpg"
+      description: "Gesamtansicht "      
+    - title: 
+      filename: "Lederhose/Vorei/03.jpg"
+      description: "Deteil Griff mit Initialen"
+    - title: 
+      filename: "Lederhose/Vorei/04.jpg"
+      description: "Das Edelweiß"
