@@ -64,6 +64,30 @@ Hier wurde ein Auftrag für die Dame<br>
       filename: "start/B&S4.jpg"
       description: "Initialen der beiden an den Griffenden"
 
+- gallerytext: "<b><u>Stierwascher</u></b><br><br>
+Der Auftrag lautete ” mach mir ein Messer mit gekrümmter Klinge, für den Griff lass dir was einfallen”.
+Den Hinweis zur Bezeichnung lieferte der spätere Kunde zufällig beim Smalltalk.
+Er erzählte, dass er seine Metzgermeisterprüfung in Salzburg absolviert hat,
+dort wird einem dann der Titel Stierwascher verliehen.
+Aus diesem Grund habe ich die Kuh-Horn Intarsien eingearbeitet.
+Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie Vulkanfieber, Zierpin und Messing. 
+"
+  images:
+    - title:
+      filename: "Kuchl/Dowi/00.jpg"
+      description: "Der Besitzer samt Messer und Arbeit"
+    - title:
+      filename: "Kuchl/Dowi/01.jpg"
+      description: "Gesamtansicht mit Lederscheide"
+
+    - title:
+      filename: "Kuchl/Dowi/02.jpg"
+      description: "Detail an der Zwinge von oben"
+
+    - title:
+      filename: "Kuchl/Dowi/03.jpg"
+      description: "Detail Griff-Ende"     
+      
 
 - gallerytext: "<b><u>Haubenkoch </u></b><br><br>
 Hier wurde ein Santoku aus Monostahl für einen Haubenkoch vom “Christkindl” gefertigt. Der Griff besteht aus Zwetschkenholz,
