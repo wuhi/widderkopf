@@ -119,4 +119,49 @@ gefärbt und ebenfalls mit den Initialen versehen"
     - title:
       filename: "Kuchl/Reise/08.jpg"
       description: "Die Reise kann beginnen, Ansicht mit Wappen"
-    
+      
+- gallerytext: "<b><u>Martialisch</u></b><br><br>Mein erstes Küchenbeil, Hauptaugenmerk war hier die perfekte Ausgewogenheit zwischen Klinge
+ und Griff. Etwas ´martialisch´ die Klinge mit einer Härte von 60°HRC, ist im oberen Teil
+ nahezu unbehandelt, der untere Teil wurde poliert und im Anschluss die 
+ gesamte Klinge brüniert. Mono-Carbonstahl aus einem alten Kreissägenblatt mit 
+ Zwetschke, Wasserbüffel-Horn Zierpins, Vulkan-Fieber und Messing-Platten sowie Rosenholz 
+ mit blauem Epoxy am Griff-Ende.
+ "
+  images:
+    - title:
+      filename: "Kuchl/Dram/04.jpg"
+      description: "Gesamtansicht"
+    - title:
+      filename: "Kuchl/Dram/01.jpg"
+      description: "Detail Griff"
+
+    - title:
+      filename: "Kuchl/Dram/02.jpg"
+      description: "Griff Ansicht hinten und unten "
+
+    - title:
+      filename: "Kuchl/Dram/03.jpg"
+      description: "Griff Ansicht von Oben"
+      
+
+- gallerytext: "<b><u>Coctail</u></b><br><br>Gewünscht war ein Damast-Messer für den Barbereich.
+ Das Ergebnis ist aus wildem Inox Damast der Firma Balbach. Griff aus Nussbaum mit Akazien und
+ Zwetschkenholz Einlagen. Das Griffende wurde mit den Initialen des Besitzers versehen.
+ Zur Aufbewahrung wurde eine Holzkiste angefertigt. Aufsteller aus Schiefer und Birke,
+ Lederscheide gefärbt und Punziert.
+ "
+  images:
+    - title:
+      filename: "Kuchl/Rieser/01.jpg"
+      description: "Gesamtansicht"
+    - title:
+      filename: "Kuchl/Rieser/02.jpg"
+      description: "Detail Klinge mit ´Kreuzschliff`"
+
+    - title:
+      filename: "Kuchl/Rieser/03.jpg"
+      description: "Griff seitlich "
+
+    - title:
+      filename: "Kuchl/Rieser/04.jpg"
+      description: "Griff Ansicht von Oben"

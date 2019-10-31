@@ -1,42 +1,81 @@
-﻿- gallerytext: "“Des Fischers Freude”<br>
+﻿- gallerytext: "<b><u>Des Fischers Freude</u></b><br>
 Mit besonderem Wert auf die rasiermesserscharfe Klinge, wurde hier ein sehr
 funktionelles und gefälliges Messer gebaut. Laut einer Info vom Kunden, war beim ersten
 Einsatz der Fisch, samt dem zum Schutz getragenem Handschuh, durchschnitten.
 "
   images:
-    - title: "Klinge Mono-Stahl gehärtet auf  63°Rockwell, Griff Zwetschke mit Messing,Kuhhorn, Vulkanfieber und Zierpin"
+    - title: ""
       filename: "start/Fischer1.jpg"
-      description: 
+      description: "Klinge Mono-Stahl gehärtet auf  63°Rockwell, Griff Zwetschke mit Messing,Kuhhorn, Vulkanfieber und Zierpin"
 
-    - title: "Detailansicht Griff"
+    - title: ""
       filename: "start/Fischer2.jpg"
-      description: 
+      description: "Detailansicht Griff"
       
-    - title: "Detailansicht Klinge"
+    - title: ""
       filename: "start/Fischer3.jpg"
-      description: 
+      description: "Detailansicht Klinge"
+
+- gallerytext: "<b><u>Jaga 1</u></b><br>
+Ein Geschenk von mir an den frisch gebackenen Papa, seines Zeichens Jäger. 
+Überhaupt damals mein erstes Jagdmesser.
+Klinge aus Monostahl Griff Hirschhorn mit Kirsche, Messing Parierstück und Vulkanfieber Einlagen
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Jaga2/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: ""
+      filename: "FischerJaeger/Jaga2/02.jpg"
+      description: "Detailansicht Griff"
       
+    - title: ""
+      filename: "FischerJaeger/Jaga2/03.jpg"
+      description: "Detailansicht Messingplatte auf der ´Rose´mit den Initialen"
+    
       
-- gallerytext: "“Braumeister”<br>
+- gallerytext: "<b><u>Da Jaga 2</u></b><br>
+Ein schönes Jagdmesser sollte es werden, dies war das Ergbnis. 
+Klinge aus Monostahl Griff Kirsche, Messing Parierstück mit Vulkanfieber Einlagen
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Jager/2.jpg"
+      description: "Gesamtansicht"
+
+    - title: ""
+      filename: "FischerJaeger/Jager/3.jpg"
+      description: "Detailansicht Griff"
+      
+    - title: ""
+      filename: "FischerJaeger/Jager/4.jpg"
+      description: "Detailansicht Klinge"
+    
+    - title: ""
+      filename: "FischerJaeger/Jager/5.jpg"
+      description: "Detailansicht von vorne"
+      
+- gallerytext: "<b><u>Braumeister</u></b><br>
 Hier wurde der Wunsch “lass dir was für einen Bierbrauer einfallen” umgesetzt.
 Die Form des Griffs ist in Anlehnung an ein Holzfass gestaltet.
 Die Scheide mit Gürtelschlaufe, ist an der Naht punziert, wurde gehärtet und gefärbt.
 "
   images:
-    - title: "Gesamtansicht"
+    - title: ""
       filename: "start/Braumeister1.jpg"
-      description: ""
+      description: "Gesamtansicht"
 
-    - title: "Spundloch"
+    - title: ""
       filename: "start/Braumeister2.jpg"
-      description: ""
+      description: "Spundloch"
 
-    - title: "Fassboden"
+    - title: ""
       filename: "start/Braumeister3.jpg"
-      description: ""
+      description: "Fassboden"
 
-- gallerytext: "“Wilde Reiterei”<br>
-EIn Jausenmesser zum runden Geburtstag, und dem Hinweis auf die Perdezucht des Jubilars,
+- gallerytext: "<b><u>Wilde Reiterei</u></b><br>
+Ein Jausenmesser zum runden Geburtstag, und dem Hinweis auf die Pefrdezucht des Jubilars,
 ergab dieses Schmuckstück. Griff aus Zwetschke Klinge Sandvik 14C28N Parierstück aus Neusilber. Lederscheide wurde angepasst , punziert und mit einem Magnetverschluss versehen. 
 Zur Aufbewahrung dient eine Holzbox mit zweifärbiger gefräster Hartschaumeinlage.
 "
@@ -60,4 +99,41 @@ Zur Aufbewahrung dient eine Holzbox mit zweifärbiger gefräster Hartschaumeinla
     - title: ""
       filename: "FischerJaeger/Reiter/05.jpg"
       description: "Ansicht in der Geschenkkiste"
+
+- gallerytext: "<b><u>Perchtentreiben</u></b><br>
+Messer für ein Mitglied der Stierkopf-Pass, mit Initialien rechts und Logo links am Griff.
+Die farbigen Einlagen wurden denen der Perchtenpass angepasst.
+Die Scheide, mit Gürtelschlaufe ist an der Naht punziert, gehärtet und gefärbt.
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Perchten/00.jpg"
+      description: "Gesamtansicht"
+
+    - title: ""
+      filename: "FischerJaeger/Perchten/02.jpg"
+      description: "Griff rechts"
+
+    - title: ""
+      filename: "FischerJaeger/Perchten/03.jpg"
+      description: "Griff links"
+
+- gallerytext: "<b><u>Zur Jause</u></b><br>
+Jausenmesser mit den Innungsfarben für Maler und Lackierer, siehe ´Beile Sache´.
+Die Klingenform wurde an ein französisches Laguiole angelehnt.
+Die Scheide wurde angepasst gehärtet und gefärbt.
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Jause/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: ""
+      filename: "FischerJaeger/Jause/02.jpg"
+      description: "Detail Griff"
+
+    - title: ""
+      filename: "FischerJaeger/Jause/03.jpg"
+      description: "Scheide rastet am Parierstück ein"
+
 
