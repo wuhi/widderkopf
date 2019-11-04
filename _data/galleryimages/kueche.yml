@@ -1,8 +1,8 @@
 ﻿- gallerytext: "<b><u>Kochbuch mal anders </u></b><br><br>
-Bunka einseitig geschliffen, Geschenk an einen guten Freund, und leidenschaftlichen Koch, zum 40er. 
-Sein Erstaunen beim Öffnen des Buches, werde ich nie vergessen. 
-Die Idee zur “Verpackung” lieferte der Italo-Western Escondido in dem ein Derringer Revolver in der Bibel war.
-Zu sehen sind auch die einzelnen Schritte der Fertigung"
+Geschenk an einen guten Freund, und leidenschaftlichen Koch, zum 40er. 
+Seinen erstaunten Blick beim Öffnen des Buches, werde ich nie vergessen. 
+Die Idee zur “Verpackung” lieferte der Italo-Western Escondido in dem ein Derringer Revolver in einer Bibel versteckt war.<br>
+Bunka einseitig geschliffen, Klinge Monostahl, Griff aus Tuje mit Hirschhorn und Messingzwinge, sowie Fieber Einlagen.<br> Zu sehen sind auch die einzelnen Schritte der Fertigung"
   images:
     - title:
       filename: "Kuchl/Kochbuch/01.jpg"
@@ -44,8 +44,7 @@ Zu sehen sind auch die einzelnen Schritte der Fertigung"
       description: "Gesamtansicht innen"
     
 - gallerytext: "<b><u>Brüderchen und Schwesterchen </u></b><br><br>
-Hier wurde ein Auftrag für die Dame<br> 
-(als Weihnachtsgeschenk) und den Herrn des Hauses realisiert,
+Hier wurde ein Auftrag für die Dame (als Weihnachtsgeschenk)<br> und den Herrn des Hauses realisiert.<br>
 		    Santoku in Carbon Damast 14 und 18cm, Griffe in Nußbaum mit Edelstahl,
 		    Initialen der beiden an den Griffenden. Aufsteller aus Birke"
   images:
@@ -64,60 +63,44 @@ Hier wurde ein Auftrag für die Dame<br>
       filename: "start/B&S4.jpg"
       description: "Initialen der beiden an den Griffenden"
 
-- gallerytext: "<b><u>Stierwascher</u></b><br><br>
-Der Auftrag lautete ” mach mir ein Messer mit gekrümmter Klinge, für den Griff lass dir was einfallen”.
-Den Hinweis zur Bezeichnung lieferte der spätere Kunde zufällig beim Smalltalk.
-Er erzählte, dass er seine Metzgermeisterprüfung in Salzburg absolviert hat,
-dort wird einem dann der Titel Stierwascher verliehen.
-Aus diesem Grund habe ich die Kuh-Horn Intarsien eingearbeitet.
-Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie Vulkanfieber, Zierpin und Messing. 
-"
-  images:
-    - title:
-      filename: "Kuchl/Dowi/00.jpg"
-      description: "Der Besitzer samt Messer und Arbeit"
-    - title:
-      filename: "Kuchl/Dowi/01.jpg"
-      description: "Gesamtansicht mit Lederscheide"
-
-    - title:
-      filename: "Kuchl/Dowi/02.jpg"
-      description: "Detail an der Zwinge von oben"
-
-    - title:
-      filename: "Kuchl/Dowi/03.jpg"
-      description: "Detail Griff-Ende"     
-      
-
 - gallerytext: "<b><u>Haubenkoch </u></b><br><br>
-Hier wurde ein Santoku aus Monostahl für einen Haubenkoch vom “Christkindl” gefertigt. Der Griff besteht aus Zwetschkenholz,
-mit Damastplatte als Abschluss, sowie Büffelhorneinlage und Zierpin.
+Ein Santoku aus Monostahl, für den Chefkoch des Kurhauses in Bad Gleichenberg.
+Als Geschenk vom “Christkindl”, von Schwester und Schwager. <br>
+Der Griff besteht aus Zwetschkenholz, mit Damastplatte und Büffelhorn als Zwinge, sowie Zierpin.
 Die Klinge ist brüniert und mit den Initialen versehen. Die Lederscheide wurde punziert,
-gefärbt und ebenfalls mit den Initialen versehen"
+gefärbt und ebenfalls mit den Initialen versehen.<br>
+Mit Stolz zeige ich hier auch ein paar Bilder aus seinem Kochbuch (im übrigen nochmals Danke dafür) welches im Herbst 2019 veröffentlicht wurde."
   images:
-    - title:
-      filename: "Kuchl/Haubenkoch/05.jpg"
-      description: "Gesamtansicht im Aufsteller"
-    - title:
-      filename: "Kuchl/Haubenkoch/02.jpg"
-      description: "Gesamtansicht mit Lederscheide"
-
-    - title:
-      filename: "Kuchl/Haubenkoch/03.jpg"
-      description: "Detail Lederscheide"
-
-    - title:
-      filename: "Kuchl/Haubenkoch/04.jpg"
-      description: "Detail Damast Zwinge"     
-      
     - title:
       filename: "Kuchl/Haubenkoch/01.jpg"
-      description: "Detail Klinge"      
+      description: "Gesamtansicht "
+    - title:
+      filename: "Kuchl/Haubenkoch/02.jpg"
+      description: "Klinge im Detail"
+    - title:
+      filename: "Kuchl/Haubenkoch/03.jpg"
+      description: "Der Griff"  
+    - title:
+      filename: "Kuchl/Haubenkoch/04.jpg"
+      description: "Detailansicht der Damast-Zwinge und den Initialen an der Klinge" 
+    - title:
+      filename: "Kuchl/Haubenkoch/05.jpg"
+      description: "Der Chef bei der Arbeit"      
+    - title:
+      filename: "Kuchl/Haubenkoch/06.jpg"
+      description: "Detail ´Hautnah`"   
+    - title:
+      filename: "Kuchl/Haubenkoch/07.jpg"
+      description: "Sauberkeit am Arbeitsplatz gehört dazu"      
+    - title:
+      filename: "Kuchl/Haubenkoch/08.jpg"
+      description: "Und zu guter letzt das Kochbuch"           
       
 - gallerytext: "<b><u>Auf großer Reise </u></b><br><br>Für diese Arbeit wurde ich von meinem lieben Freund und Nachbarn beauftragt.
- Gemeinsam mit seiner Frau packte er seine Zelte zusammen und zog in deren neue Heimat ins Kärtner Drautal.
+ Gemeinsam mit seiner Frau packte er hier in Tirol seine Zelte zusammen und zog in deren neue Heimat, ins Kärtner Drautal.<br>
  Messerset aus Inox Damast Griffe Nussbaum mit Messing, Wasserbüffel und Edelstahl am Griff-ende.
- In den Koffer (daher der Titel) ist das Familienwappen in den Glasdeckel eingraviert."
+ In den Koffer (daher der Titel) ist das Familienwappen in den Glasdeckel eingraviert. Die Einlage bildet ein zweifärbiger Hartschaumstoff in den die Form der Messer gefräst wurde.
+<br> Ein besonderes Danke an Martina und Hansjörg für diesen Auftrag"
   images:
     - title:
       filename: "Kuchl/Reise/01.jpg"
@@ -143,11 +126,37 @@ gefärbt und ebenfalls mit den Initialen versehen"
     - title:
       filename: "Kuchl/Reise/08.jpg"
       description: "Die Reise kann beginnen, Ansicht mit Wappen"
+
+- gallerytext: "<b><u>Stierwascher</u></b><br><br>
+Der Auftrag lautete ” mach mir ein Messer mit gekrümmter Klinge, für den Griff lass dir was einfallen”.
+Den Hinweis zur Bezeichnung lieferte der spätere Kunde zufällig beim Smalltalk.
+Er erzählte, dass er seine Metzgermeisterprüfung in Salzburg absolviert hat,
+dort wird einem dann der Titel Stierwascher verliehen.
+Aus diesem Grund habe ich die Kuh-Horn Intarsien eingearbeitet.<br>
+Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie Vulkanfieber, Zierpin und Messing. 
+"
+  images:
+    - title:
+      filename: "Kuchl/Dowi/00.jpg"
+      description: "Der Besitzer samt Messer und Arbeit"
+    - title:
+      filename: "Kuchl/Dowi/01.jpg"
+      description: "Gesamtansicht mit Lederscheide"
+
+    - title:
+      filename: "Kuchl/Dowi/02.jpg"
+      description: "Detail an der Zwinge von oben"
+
+    - title:
+      filename: "Kuchl/Dowi/03.jpg"
+      description: "Detail Griff-Ende"     
+      
+
       
 - gallerytext: "<b><u>Martialisch</u></b><br><br>Mein erstes Küchenbeil, Hauptaugenmerk war hier die perfekte Ausgewogenheit zwischen Klinge
  und Griff. Etwas ´martialisch´ die Klinge mit einer Härte von 60°HRC, ist im oberen Teil
  nahezu unbehandelt, der untere Teil wurde poliert und im Anschluss die 
- gesamte Klinge brüniert. Mono-Carbonstahl aus einem alten Kreissägenblatt mit 
+ gesamte Klinge brüniert.<br> Mono-Carbonstahl aus einem alten Kreissägenblatt mit 
  Zwetschke, Wasserbüffel-Horn Zierpins, Vulkan-Fieber und Messing-Platten sowie Rosenholz 
  mit blauem Epoxy am Griff-Ende.
  "
@@ -168,11 +177,11 @@ gefärbt und ebenfalls mit den Initialen versehen"
       description: "Griff Ansicht von Oben"
       
 
-- gallerytext: "<b><u>Coctail</u></b><br><br>Gewünscht war ein Damast-Messer für den Barbereich.
+- gallerytext: "<b><u>Coctail</u></b><br><br>Gewünscht war ein Damast-Messer für den Barbereich.<br>
  Das Ergebnis ist aus wildem Inox Damast der Firma Balbach. Griff aus Nussbaum mit Akazien und
  Zwetschkenholz Einlagen. Das Griffende wurde mit den Initialen des Besitzers versehen.
  Zur Aufbewahrung wurde eine Holzkiste angefertigt. Aufsteller aus Schiefer und Birke,
- Lederscheide gefärbt und Punziert.
+ Die Lederscheide ist gefärbt und punziert.
  "
   images:
     - title:
