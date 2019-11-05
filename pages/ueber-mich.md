@@ -33,4 +33,4 @@ Das Leder für die unterschiedlichen Scheiden wird ebenfalls von mir selbst vera
 
 In der Galerie können, meine verwendeten Materialien sowie, ein Teil meiner bisherigen Arbeiten eingesehen werden.
 
-Dank an Sven Miklisch für das Titelbild
+Dank an Ferdinand für die Hilfe bei Erstellung der Seite und Sven Miklisch für das Titelbild.
