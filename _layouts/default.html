@@ -15,9 +15,22 @@ layout: compress
 			background-repeat: no-repeat;
 			background-attachment: fixed;
 		}
+		
+		headerLogo {
+			position: fixed;
+			top: 100px;
+			right: 130px;
+			width: 300px;
+			height: 300px;
+			/* border: 1px solid black; */
+			background: url('{{site.baseurl}}/images/Widde2r.png');
+			background-size: 300px;
+			background-repeat: no-repeat;
+		}
 	</style>
 </head>
 <body id="top-of-page" class="{{ layout.format }}">
+	<div class="headerLogo"></div>
 	{% unless page.skip_boilerplate %}
 	{% include _navigation.html %}
 	{% endunless %}
