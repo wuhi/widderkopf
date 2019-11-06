@@ -25,7 +25,7 @@ author: markus
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://widderkopf.github.io'
+url: 'https://widderkopf.at'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
