@@ -5,18 +5,27 @@
 - title: Über mich
   url: "/ueber-mich/"
   side: left
-
-- title: "Traditionelles für die Lederhose"
-  url: "/lederhose/"
+  
+  
+- title: Messer Kategorien
+  url: "/#"
   side: left
+  dropdown:
+    - title: "Traditionelles für die Lederhose"
+      url: "/lederhose/"
+      side: left
 
-- title: "Scharfes für die Küche"
-  url: "/kuchl/"
-  side: left
+    - title: "Scharfes für die Küche"
+      url: "/kuchl/"
+      side: left
 
-- title: "Latein für Fischer, Jäger und andere"
-  url: "/fischer-jaeger-andere/"
-  side: left
+    - title: "Latein für Fischer, Jäger und andere"
+      url: "/fischer-jaeger-andere/"
+      side: left
+           
+#- title: Schmuck
+#  url: "/schmuck/"
+#  side: left
   
 - title: "Datenschutz"
   url: "/datenschutz/"

@@ -1,0 +1,16 @@
+- gallerytext: "<b><u>schmuck gallery....</b>
+"
+
+  images:
+    - title: 
+      filename: "Lederhose/Schneider/01.jpg"
+      description: "Gesamtansicht"
+
+    - title: 
+      filename: "Lederhose/Schneider/02.jpg"
+      description: "Endplatte mit Initialen"
+      
+    - title: 
+      filename: "Lederhose/Schneider/03.jpg"
+      description: "Endplatte mit Initialen"
+      
