@@ -8,7 +8,7 @@ teaser: "<b>Ich antworte normalerweise innerhalb eines Werktages<b>."
 permalink: "/kontakt/"
 
 ---
-<form method="POST" action="https://formspree.io/f.weinberger@nod.at">
+<form method="POST" action="https://formspree.io/widderkopf.messer@gmail.com">
   <input type="email" name="email" placeholder="Deine E-Mailadresse">
   <textarea name="message" placeholder="Dein Text"></textarea>
   <button type="submit">Mail senden</button>
