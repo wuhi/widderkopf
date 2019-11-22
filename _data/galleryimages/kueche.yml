@@ -214,14 +214,12 @@ Aufsteller Schiefer mit Birke."
     - title:
       filename: "Kuchl/Holz/1.jpg"
       description: "Gesamtansicht mit Aufsteller"
-
     - title:
       filename: "Kuchl/Holz/4.jpg"
       description: "Gesamtansicht mit Lederscheide"
     - title:
       filename: "Kuchl/Holz/2.jpg"
       description: "Detail der Klinge"
-
     - title:
       filename: "Kuchl/Holz/3.jpg"
       description: "Detail Griff gesamt"
@@ -236,17 +234,14 @@ Aufsteller aus Schiefer mit Aufnahmen im selben Design wie der Griff."
   images:
     images:
     - title:
-      filename: "Kuchl/Schwaig/1.jpg"
+      filename: "Kuchl/Schwaig 01.jpg"
       description: "Gesamtansicht mit Aufsteller"
-
     - title:
-      filename: "Kuchl/Schwaig/2.jpg"
-      description: "Gesamtansicht seitlich"
-      
+      filename: "Kuchl/Schwaig 02.jpg"
+      description: "Gesamtansicht seitlich"    
     - title:
-      filename: "Kuchl/Schwaig/3.jpg"
+      filename: "Kuchl/Schwaig 03.jpg"
       description: "Detail vom Griff"
-
     - title:
-      filename: "Kuchl/Schwaig/4.jpg"
+      filename: "Kuchl/Schwaig 04.jpg"
       description: "Detail der Klinge"
