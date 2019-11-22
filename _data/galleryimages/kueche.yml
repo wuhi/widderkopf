@@ -209,7 +209,7 @@ Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie V
 - gallerytext: "<b><u>Holzwurm </u></b><br><br>
 Geschenk an meinen Schwager zum 5ziger. Er handelt mit Buchenholz daher die Idee mit der im Griff eingearbeiteten Glasphiole samt 3 Bucheckern.
 Klinge Carbon Monostahl aus einem Kreissägeblatt. Der Griff ist Eibe mit Vulkanfieber Als Zwinge dient Büffelhorn.
-Aufsteller Schiefer mit Birke"
+Aufsteller Schiefer mit Birke."
   images:
     - title:
       filename: "Kuchl/Holz/1.jpg"
@@ -225,5 +225,26 @@ Aufsteller Schiefer mit Birke"
     - title:
       filename: "Kuchl/Holz/3.jpg"
       description: "Detail Griff gesamt"
+      
+      
+- gallerytext: "<b><u>Vater und Sohn</u></b><br><br>
+Geschenk vom Kunden an seinen Sohn, gewünscht war eine ´satte´ Klinge mit funktionalem Griff.
+Dieser ist aus Nußbaum und Magnolienholz mit einer Einlage aus Büffelhorn gefertigt. 
+Anfangs und Endstück aus Neusilber. Die Klinge, ein altes Kreissägeblatt, aus Carbon Monostahl wurde brüniert und auf 59°HRC gehärtet. 
+Diese wirkt etwas archaisch, da die tiefen Spuren alten Rostes noch zu sehen sind. 
+Aufsteller aus Schiefer mit Aufnahmen im selben Design wie der Griff."
+  images:
+    images:
+    - title:
+      filename: "Kuchl/Schwaig/1.jpg"
+      description: "Gesamtansicht mit Aufsteller"
 
-    
+    - title:
+      filename: "Kuchl/Schwaig/2.jpg"
+      description: "Gesamtansicht seitlich"
+    - title:
+      filename: "Kuchl/Schwaig/3.jpg"
+      description: "Detail vom Griff"
+
+    - title:
+      filename: "Kuchl/Schwaig/4.jpg"
