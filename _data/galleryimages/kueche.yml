@@ -173,14 +173,35 @@ Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie V
       description: "Gesamtansicht"
     - title:
       filename: "Kuchl/Dram/01.jpg"
-      description: "Detail Griff"
+      description: "Detail Griff seitlich"
 
     - title:
       filename: "Kuchl/Dram/02.jpg"
-      description: "Griff Ansicht hinten und unten "
+      description: "Griff Ansicht von oben "
 
     - title:
       filename: "Kuchl/Dram/03.jpg"
+      description: "Klinge mit Kreuzschliff"
+
+- gallerytext: "<b><u>Beile Sache</u></b><br><br>Anforderung war hier ein ´Allzweckmesser in Beilform´
+Da dies bereits das dritte Messer für diesen Kunden war habe ich natürlich die Auswahl 
+der Griff Materialien beibehalten. Die Klinge aus Sandvik 14C28N wurde mit einer ´Kreuzschliff´ Politur versehen. 
+Griff aus Akazie mit Zwetschke, und Zierpins. Farbeinlagen aus Vulkanfieber. Lederschutz gefärbt und Punziert
+ "
+  images:
+    - title:
+      filename: "Kuchl/Moser/06.jpg"
+      description: "Gesamtansicht"
+    - title:
+      filename: "Kuchl/Moser/08.jpg"
+      description: "Detail Griff"
+
+    - title:
+      filename: "Kuchl/Moser/09.jpg"
+      description: "Griff Ansicht hinten und unten "
+
+    - title:
+      filename: "Kuchl/Moser/07.jpg"
       description: "Griff Ansicht von Oben"
       
 
