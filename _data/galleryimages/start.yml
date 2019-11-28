@@ -1,5 +1,5 @@
 - gallerytext: "Mehr findest du in den jeweiligen Unterkategorien"
-  customStyle: "margin-bottom: 180px;"
+  customStyle: "margin-bottom: 100px;"
   images:
     - title: "Traditionelles"
       filename: "start/001.jpg"
@@ -8,36 +8,32 @@
     - title: "Traditionelles"
       filename: "start/Schneider.jpg"
       description: "Schneidermeister"
-   
-    - title: "Traditionelles"
-      filename: "start/Widder.jpg"
-      description: "Mein Widderkopf"
-   
+     
     - title: "Traditionelles"
       filename: "start/Bayern.jpg"
       description: "Bayern"
 
-    - title: "Scharfes für"
+    - title: "Scharfes"
       filename: "start/Kochbuch.jpg"
       description: "Kochbuch mal anders"
 
-    - title: "Scharfes für"
+    - title: "Scharfes"
       filename: "start/Martialisch.jpg"
       description: "Martialisch"           
     
-    - title: "Scharfes für"
+    - title: "Scharfes"
       filename: "start/Reise.jpg"
       description: "Auf großer Reise"
       
-    - title: "Latein für"
+    - title: "Latein"
       filename: "start/01.jpg"
       description: "Wilde Reiterei"
 
-    - title: "Latein für"
+    - title: "Latein"
       filename: "start/Braumeister1.jpg"
       description: "Braumeister"    
 
-    - title: "Latein für"
+    - title: "Latein"
       filename: "start/Fischer1.jpg"
       description: "Fischermanns Freund"
 

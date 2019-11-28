@@ -42,7 +42,7 @@ format: post
 			{% assign gallerydata = site.data.galleryimages[page.galleryimageskey] %}
 			{% for gal in gallerydata %}
 			<p style="background-color: rgba( 99, 52, 4, 0.8); padding-left: 10px; padding-right: 10px;{{ gal.customStyle }}">{{gal.gallerytext}}</p>
-			<div id="nanogallery2_{{forloop.index}}" data-nanogallery2='{"thumbnailHeight":  150, "thumbnailWidth":   150 }'>
+			<div id="nanogallery2_{{forloop.index}}" data-nanogallery2='{"thumbnailHeight":  300, "thumbnailWidth":   300 }'>
 				 			
 				{% for img in gal.images %}
 				  <a href="{{ site.url }}{{ site.baseurl }}/assets/galleryimages/{{ img.filename }}" data-ngThumb="{{ site.url }}{{ site.baseurl }}/assets/galleryimages/{{ img.filename }}" data-ngdesc="{{img.description}}">{{ img.title }}</a>
