@@ -156,53 +156,7 @@ Klinge Monostahl brüniert, Griff aus Nußbaum mit Büffel- und Kuh-horn sowie V
 
     - title:
       filename: "Kuchl/Dowi/03.jpg"
-      description: "Detail Griff-Ende"     
-      
-
-      
-- gallerytext: "<b><u>Martialisch</u></b><br><br>Mein erstes Küchenbeil, Hauptaugenmerk war hier die perfekte Ausgewogenheit zwischen Klinge
- und Griff. Etwas ´martialisch´ die Klinge mit einer Härte von 60°HRC, ist im oberen Teil
- nahezu unbehandelt, der untere Teil wurde poliert und im Anschluss die 
- gesamte Klinge brüniert.<br> Mono-Carbonstahl aus einem alten Kreissägenblatt mit 
- Zwetschke, Wasserbüffel-Horn Zierpins, Vulkan-Fieber und Messing-Platten sowie Rosenholz 
- mit blauem Epoxy am Griff-Ende.
- "
-  images:
-    - title:
-      filename: "Kuchl/Dram/04.jpg"
-      description: "Gesamtansicht"
-    - title:
-      filename: "Kuchl/Dram/01.jpg"
-      description: "Detail Griff seitlich"
-
-    - title:
-      filename: "Kuchl/Dram/02.jpg"
-      description: "Griff Ansicht von oben "
-
-    - title:
-      filename: "Kuchl/Dram/03.jpg"
-      description: "Klinge mit Kreuzschliff"
-
-- gallerytext: "<b><u>Beile Sache</u></b><br><br>Anforderung war hier ein ´Allzweckmesser in Beilform´
-Da dies bereits das dritte Messer für diesen Kunden war habe ich natürlich die Auswahl 
-der Griff Materialien beibehalten. Die Klinge aus Sandvik 14C28N wurde mit einer ´Kreuzschliff´ Politur versehen. 
-Griff aus Akazie mit Zwetschke, und Zierpins. Farbeinlagen aus Vulkanfieber. Lederschutz gefärbt und Punziert
- "
-  images:
-    - title:
-      filename: "Kuchl/Moser/06.jpg"
-      description: "Gesamtansicht"
-    - title:
-      filename: "Kuchl/Moser/08.jpg"
-      description: "Detail Griff"
-
-    - title:
-      filename: "Kuchl/Moser/09.jpg"
-      description: "Griff Ansicht hinten und unten "
-
-    - title:
-      filename: "Kuchl/Moser/07.jpg"
-      description: "Griff Ansicht von Oben"
+      description: "Detail Griff-Ende" 
       
 
 - gallerytext: "<b><u>Coctail</u></b><br><br>Gewünscht war ein Damast-Messer für den Barbereich.<br>
@@ -248,7 +202,7 @@ Aufsteller Schiefer mit Birke."
       
 - gallerytext: "<b><u>Vater und Sohn</u></b><br><br>
 Geschenk vom Kunden an seinen Sohn, gewünscht war eine ´satte´ Klinge mit funktionalem Griff.
-Dieser ist aus Nußbaum und Magnolienholz mit einer Einlage aus Büffelhorn gefertigt. 
+Dieser ist aus Nußbaum und Magnolienholz mit einer Einlage aus Büffelhorn gefertigt. <br>
 Anfangs und Endstück aus Neusilber. Die Klinge, ein altes Kreissägeblatt, aus Carbon Monostahl wurde brüniert und auf 59°HRC gehärtet. 
 Diese wirkt etwas archaisch, da die tiefen Spuren alten Rostes noch zu sehen sind. 
 Aufsteller aus Schiefer mit Aufnahmen im selben Design wie der Griff."
@@ -265,4 +219,44 @@ Aufsteller aus Schiefer mit Aufnahmen im selben Design wie der Griff."
     - title:
       filename: "Kuchl/Schwaig 04.jpg"
       description: "Detail der Klinge"
+      
+      
+- gallerytext: "<b><u>Auf eigenen Beinen</u></b><br><br>
+Als Geburtstags Geschenk für meinen Junior der mittlerweile seine eigene Wohnung hat. 
+Die Klinge aus 14C28 Sandvik Stahl ist rostfrei und auf 59°HRC gehärtet und wurde, die dunkle Farbe erklärend 
+nach dem Härten nicht mehr poliert. <br>
+Das Griffholz ist gestockter und stabilisierter Apfelbaum. Mit eingearbeitet 
+wurden Wasserbüffelhorn, Vulkanfieber sowie Neusilber .
+Aufsteller aus Schiefer mit Aufnahmen ebenfalls in Apfelbaum."
+  images:
+    - title:
+      filename: "Kuchl/Stefan/01.jpg"
+      description: "Gesamtansicht im Aufsteller"
+    - title:
+      filename: "Kuchl/Stefan/02.jpg"
+      description: "Detail der Klinge"    
+    - title:
+      filename: "Kuchl/Stefan/03.jpg"
+      description: "Detail vom Griff"
+    
 
+- gallerytext: "<b><u>Prinzessin</u></b><br><br>
+Als Christkindl für meine Lebenspartnerin. 
+Die Klinge aus 14C28 Sandvik Stahl ist rostfrei und auf 59°HRC gehärtet und wurde ebenfalls, die dunkle Farbe erklärend 
+nach dem Härten nicht mehr poliert. <br>
+Das Griffholz ist gestockte und stabilisierte Buche die zufällig beim Grillen entdeckt worden ist. Mit eingearbeitet 
+wurden Wasserbüffelhorn, Vulkanfieber, Neusilber und Swarovski Steine.
+Aufsteller aus Schiefer mit Aufnahmen in Apfelbaum."
+  images:
+    - title:
+      filename: "Kuchl/Renate/01.jpg"
+      description: "Gesamtansicht im Aufsteller"
+    - title:
+      filename: "Kuchl/Renate/02.jpg"
+      description: "Detail der Klinge"    
+    - title:
+      filename: "Kuchl/Renate/03.jpg"
+      description: "Detail vom Griff"
+    - title:
+      filename: "Kuchl/Renate/04.jpg"
+      description: "Detail vom Griff oben"

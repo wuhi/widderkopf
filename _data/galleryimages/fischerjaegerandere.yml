@@ -57,51 +57,7 @@ Klinge aus Monostahl Griff Kirsche, Messing Parierstück mit Vulkanfieber Einlag
       filename: "FischerJaeger/Jager/5.jpg"
       description: "Detailansicht von vorne"
       
-- gallerytext: "<b><u>Braumeister</u></b><br>
-Hier wurde der Wunsch “lass dir was für einen Bierbrauer einfallen” umgesetzt.
-Die Form des Griffs ist in Anlehnung an ein Holzfass gestaltet.<br>
-Klinge Carbon Damast, der Griff wurde aus einer alten Fassdaube gefertigt. Messing und Kupfer Einlagen als Ringe sowie Zierpin für das `Spundloch`
-Das Griffende wurde wie ein Fassboden ausgearbeitet.
-Die Scheide hier mit Gürtelschlaufe, ist punziert, gehärtet und gefärbt.
-"
-  images:
-    - title: ""
-      filename: "start/Braumeister1.jpg"
-      description: "Gesamtansicht"
 
-    - title: ""
-      filename: "start/Braumeister2.jpg"
-      description: "Spundloch"
-
-    - title: ""
-      filename: "start/Braumeister3.jpg"
-      description: "Fassboden"
-
-- gallerytext: "<b><u>Wilde Reiterei</u></b><br>
-Ein Jausenmesser zum runden Geburtstag, und dem Hinweis auf die Pefrdezucht des Jubilars,
-ergab dieses Schmuckstück.<br> Griff aus Zwetschke Klinge Sandvik 14C28N Parierstück aus Neusilber. Lederscheide wurde angepasst , punziert und mit einem Magnetverschluss versehen. 
-Zur Aufbewahrung dient eine Holzbox mit zweifärbiger gefräster Hartschaumeinlage.
-"
-  images:
-    - title: ""
-      filename: "FischerJaeger/Reiter/01.jpg"
-      description: "Gesamtansicht von links"
-
-    - title: ""
-      filename: "FischerJaeger/Reiter/02.jpg"
-      description: "Gesamtansicht von rechts"
-
-    - title: ""
-      filename: "FischerJaeger/Reiter/03.jpg"
-      description: "Gesamt in der Lederscheide"
-
-    - title: ""
-      filename: "FischerJaeger/Reiter/04.jpg"
-      description: "Detailansicht Griff"
-
-    - title: ""
-      filename: "FischerJaeger/Reiter/05.jpg"
-      description: "Ansicht in der Geschenkkiste"
 
 - gallerytext: "<b><u>Perchtentreiben</u></b><br>
 Messer für ein Mitglied der Stierkopf-Pass, mit Initialien rechts und Logo links am Griff.

@@ -1,0 +1,143 @@
+- gallerytext: "<b><u>Masterpiece</u></b><br>
+Ein Messer für die Lederhose sollte es werden, die Klinge allerdings war vom Kunden
+so anhand von Bildern vorgegeben. Das Ergebnis ist aus Carbon Leitern Damast. 
+Das Parierstück ebenfalls aus Leitern Damast. Griff aus Hirsch und Wasserbüffel für die Einlagen wurde Rosenholz 
+verwendet. Die Lederscheide wurde angepasst und mit einem zweifärbigen Wickelverschluß versehen.
+"
+  images:
+    - title: ""
+      filename: "Spezial/Ursler/01.jpg"
+      description: "Gesamtansicht in der Scheide"
+
+    - title: ""
+      filename: "Spezial/Ursler/02.jpg"
+      description: "Gesamtansicht mit Scheide"
+
+    - title: ""
+      filename: "Spezial/Ursler/03.jpg"
+      description: "Detail der Klinge"
+
+    - title: ""
+      filename: "Spezial/Ursler/04.jpg"
+      description: "Detailansicht Parierstück"
+
+    - title: ""
+      filename: "Spezial/Ursler/05.jpg"
+      description: "Ansicht Rose mit Holzeinlage und Logo"
+
+
+- gallerytext: "<b><u>Wilde Reiterei</b>
+Ein Jausenmesser zum runden Geburtstag, und dem Hinweis auf die Pefrdezucht des Jubilars,
+ergab dieses Schmuckstück.<br> Griff aus Zwetschke Klinge Sandvik 14C28N Parierstück aus Neusilber. Lederscheide wurde angepasst , punziert und mit einem Magnetverschluss versehen. 
+Zur Aufbewahrung dient eine Holzbox mit zweifärbiger gefräster Hartschaumeinlage.
+"
+  images:
+    - title: ""
+      filename: "FischerJaeger/Reiter/01.jpg"
+      description: "Gesamtansicht von links"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/02.jpg"
+      description: "Gesamtansicht von rechts"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/03.jpg"
+      description: "Gesamt in der Lederscheide"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/04.jpg"
+      description: "Detailansicht Griff"
+
+    - title: ""
+      filename: "FischerJaeger/Reiter/05.jpg"
+      description: "Ansicht in der Geschenkkiste"
+
+- gallerytext: "<b><u>Braumeister</u></b><br>
+Hier wurde der Wunsch “lass dir was für einen Bierbrauer einfallen” umgesetzt.
+Die Form des Griffs ist in Anlehnung an ein Holzfass gestaltet.<br>
+Klinge Carbon Damast, der Griff wurde aus einer alten Fassdaube gefertigt. Messing und Kupfer Einlagen als Ringe sowie Zierpin für das `Spundloch`
+Das Griffende wurde wie ein Fassboden ausgearbeitet.
+Die Scheide hier mit Gürtelschlaufe, ist punziert, gehärtet und gefärbt.
+"
+  images:
+    - title: ""
+      filename: "start/Braumeister1.jpg"
+      description: "Gesamtansicht"
+
+    - title: ""
+      filename: "start/Braumeister2.jpg"
+      description: "Spundloch"
+
+    - title: ""
+      filename: "start/Braumeister3.jpg"
+      description: "Fassboden"
+
+- gallerytext: "<b><u>Martialisch</u></b><br><br>Mein erstes Küchenbeil, Hauptaugenmerk war hier die perfekte Ausgewogenheit zwischen Klinge
+ und Griff. Etwas ´martialisch´ die Klinge mit einer Härte von 60°HRC, ist im oberen Teil
+ nahezu unbehandelt, der untere Teil wurde poliert und im Anschluss die 
+ gesamte Klinge brüniert.<br> Mono-Carbonstahl aus einem alten Kreissägenblatt mit 
+ Zwetschke, Wasserbüffel-Horn Zierpins, Vulkan-Fieber und Messing-Platten sowie Rosenholz 
+ mit blauem Epoxy am Griff-Ende.
+ "
+  images:
+    - title:
+      filename: "Kuchl/Dram/04.jpg"
+      description: "Gesamtansicht"
+    - title:
+      filename: "Kuchl/Dram/01.jpg"
+      description: "Detail Griff seitlich"
+
+    - title:
+      filename: "Kuchl/Dram/02.jpg"
+      description: "Griff Ansicht hinten und unten "
+
+    - title:
+      filename: "Kuchl/Dram/03.jpg"
+      description: "riff Ansicht von oben"
+
+- gallerytext: "<b><u>Beile Sache</u></b><br><br>Anforderung war hier ein ´Allzweckmesser in Beilform´
+Da dies bereits das dritte Messer für diesen Kunden war habe ich natürlich die Auswahl 
+der Griff Materialien beibehalten. Die Klinge aus Sandvik 14C28N wurde mit einer ´Kreuzschliff´ Politur versehen. 
+Griff aus Akazie mit Zwetschke, und Zierpins. Farbeinlagen aus Vulkanfieber. Lederschutz gefärbt und Punziert
+ "
+  images:
+    - title:
+      filename: "Kuchl/Moser/06.jpg"
+      description: "Gesamtansicht"
+    - title:
+      filename: "Kuchl/Moser/08.jpg"
+      description: "Detail Griff"
+
+    - title:
+      filename: "Kuchl/Moser/09.jpg"
+      description: "Griff Ansicht von oben "
+
+    - title:
+      filename: "Kuchl/Moser/07.jpg"
+      description: "Klinge mit Kreuzschliff"
+
+- gallerytext: "<b><u>Alter Apfel</u></b><br><br>Anforderung war hier wiederum ein ´Allzweckmesser in Beilform´
+Die Klinge aus einem alten komplett verrostetem Kreissägeblatt ist im oberen Teil nur entrostet.
+Der untere Teil wurde nach dem Härten auf 60° HRC poliert und im Anschluss die  gesamte Klinge brüniert.<br>
+Der Griff ist aus gestocktem stabilisiertem Apfelbaum mit Zierpins Vulanfieber und Messing Einlagen.
+Zum Schutz der Klinge dient eine Lederscheide.
+ "
+  images:
+    - title:
+      filename: "Spezial/Toni/01.jpg"
+      description: "Am Anfang war das Sägeblatt"
+    - title:
+      filename: "Spezial/Toni/02.jpg"
+      description: "Nach einiger Zeit"
+
+    - title:
+      filename: "Spezial/Toni/03.jpg"
+      description: "Zu guter letzt das Ergebnis "
+
+    - title:
+      filename: "Spezial/Toni/04.jpg"
+      description: "Detail Griff"
+
+    - title:
+      filename: "Spezial/Toni/05.jpg"
+      description: "Detail Klinge "

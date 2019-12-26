@@ -19,13 +19,13 @@
       url: "/kuchl/"
       side: left
 
-    - title: "Latein für Fischer, Jäger und andere"
+    - title: "Latein für Fischer und Jäger"
       url: "/fischer-jaeger-andere/"
       side: left
            
-#- title: Schmuck
-#  url: "/schmuck/"
-#  side: left
+    - title: "Spezialanfertigungen"
+      url: "/spezial/"
+      side: left
   
 - title: "Datenschutz"
   url: "/datenschutz/"

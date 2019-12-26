@@ -16,7 +16,6 @@
     - title: 
       filename: "Lederhose/Schneider/03.jpg"
       description: "Das ´Geheimfach´ mit Nadel und Faden"
-      
 - gallerytext: "<b><u>Bayern München</u></b><br><br>Auch echten Fans muss man gerecht werden.
 Man sieht am Griff-Ende, dass ein Einkaufs-Chip doch auch seinen Reiz haben kann.<br>
 Klinge aus Carbon Damast, Griff Kirschholz. Die Initialen seitlich wurden gelasert.<br>
@@ -111,4 +110,86 @@ Die Lederscheide wurde ans Parierstück angepasst, gefärbt und punziert.
       filename: "Lederhose/Vorei/04.jpg"
       description: "Das Edelweiß"
       
+      
+- gallerytext: "<b><u>Tradition und seine Werte 1</u></b><br><br> Hier im Anschluss ist eine ganze Reihe an Sackmessern 
+wovon ich weiß dass sie in guten Händen gelandet sind.  <br> Klinge aus Carbon Damast.
+Griff aus stabilisiertem Apfelbaum und Zwetschke mit Einlagen aus Vulkanfieber sowie Zierpin.
+"
 
+  images:
+    - title: 
+      filename: "Lederhose/Mitti/05.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Mitti/06.jpg"
+      description: "Detail Griff "
+      
+    - title: 
+      filename: "Lederhose/Mitti/07.jpg"
+      description: "Detail vom Griff mit Initialien"
+      
+- gallerytext: "<b><u>Tradition und seine Werte 2</u></b><br><br> Klinge aus Carbon Damast.
+Griff aus Kirsche mit Einlagen aus Wasserbüffelhorn und Vulkanfieber.
+"
+  images:
+    - title: 
+      filename: "Lederhose/Mitti/08.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Mitti/09.jpg"
+      description: "Detail Griff "
+      
+    - title: 
+      filename: "Lederhose/Mitti/10.jpg"
+      description: "Detail vom Griff mit Initialien" 
+      
+- gallerytext: "<b><u>Tradition und seine Werte 3</u></b><br><br> Klinge aus Carbon Damast.
+Griff aus Magnolie mit Zwetschke sowie Einlagen aus Vulkanfieber und Zierpin.
+"
+  images:
+    - title: 
+      filename: "Lederhose/Mitti/11.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Mitti/12.jpg"
+      description: "Detail Griff "
+      
+    - title: 
+      filename: "Lederhose/Mitti/13.jpg"
+      description: "Detail vom Griff mit Initialien"
+      
+- gallerytext: "<b><u>Tradition und seine Werte 4</u></b><br><br> Klinge aus Carbon Damast.
+Griff aus Magnolie mit Zwetschke sowie Einlagen aus Vulkanfieber und Zierpin.
+"
+  images:
+    - title: 
+      filename: "Lederhose/Mitti/02.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Mitti/03.jpg"
+      description: "Detail Griff "
+      
+    - title: 
+      filename: "Lederhose/Mitti/04.jpg"
+      description: "Detail vom Griff mit Initialien"
+      
+- gallerytext: "<b><u>Tradition und seine Werte 5</u></b><br><br> Klinge aus Carbon Damast.
+Griff aus Magnolie mit Zwetschke sowie Einlagen aus Vulkanfieber und Zierpin.
+"
+  images:
+    - title: 
+      filename: "Lederhose/Paller/01.jpg"
+      description: "Gesamtansicht"
+          
+    - title: 
+      filename: "Lederhose/Paller/02.jpg"
+      description: "Detail Griff "
+      
+    - title: 
+      filename: "Lederhose/Paller/03.jpg"
+      description: "Detail vom Griff mit Initialien"
+      
