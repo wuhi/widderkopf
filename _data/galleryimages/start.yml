@@ -26,14 +26,25 @@
       description: "Auf großer Reise"
       
     - title: "Latein"
-      filename: "start/01.jpg"
-      description: "Wilde Reiterei"
+      filename: "start/Siegi.jpg"
+      description: "Jaga"
 
     - title: "Latein"
-      filename: "start/Braumeister1.jpg"
-      description: "Braumeister"    
+      filename: "start/Jause.jpg"
+      description: "Jausn"    
 
     - title: "Latein"
       filename: "start/Fischer1.jpg"
       description: "Fischermanns Freund"
 
+    - title: "Spezial"
+      filename: "start/01.jpg"
+      description: "Wilde Reiterei"
+
+    - title: "Spezial"
+      filename: "start/Ursler.jpg"
+      description: "Masterpiece"    
+
+    - title: "Spezial"
+      filename: "start/Toni.jpg"
+      description: "Alter Apfel"
