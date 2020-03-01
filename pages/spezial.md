@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/spezial/"
 galleryimageskey: "spezial"
 ---
-Hier findest du sehr spezielle  Arbeiten zum Thema Messer, 
+<b>Hier eine Auswahl an sehr speziellen  Arbeiten zum Thema Messer, 
 seien es Beile für die Küche oder auch sehr raffiniert für 
 den jeweiligen Träger, eben individuell.
 <br>

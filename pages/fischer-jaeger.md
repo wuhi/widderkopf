@@ -7,6 +7,6 @@ teaser: ""
 permalink: "/fischer-jaeger-andere/"
 galleryimageskey: "fischerjaegerandere"
 ---
-Hier ein Überblick auf spezielle Anfertigungen mit Blick auf Fischerei und
+<b>Hier ein Überblick auf spezielle Anfertigungen mit Blick auf Fischerei und
 Jägerschaft 
 <br>

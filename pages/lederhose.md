@@ -7,7 +7,7 @@ teaser: ""
 permalink: "/lederhose/"
 galleryimageskey: "lederhose"
 ---
-Hier findest du meine Arbeiten um das traditionelle "Sackmesser" für die Lederhose wieder etwas
+<b>Hier findest du meine Arbeiten um das traditionelle "Sackmesser" für die Lederhose wieder etwas
 näher an den Mann zu bringen.<br> Die kleine Tasche an der rechten Seite einer Lederhose ist
 heutzutage leider viel zu oft verwaist.
 <br>

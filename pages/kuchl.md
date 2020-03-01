@@ -7,5 +7,5 @@ teaser: ""
 permalink: "/kuchl/"
 galleryimageskey: "kueche"
 ---
-Hier meine Arbeiten zum Thema Küche, natürlich wird auch hier das Augenmerk auf die Individualität gesetzt.
+<b>Hier meine Arbeiten zum Thema Küche, natürlich wird auch hier das Augenmerk auf die Individualität gesetzt.
 <br>
