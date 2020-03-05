@@ -28,7 +28,7 @@ Weiter wird Carbon und Inox-Damast, vorwiegend aus der Schmiede Balbach in Deuts
 Auch rostträger Sandvik Stahl aus Schweden kommt zum Einsatz.
 
 Für die Griffe werden Nussbaum, Zwetschken, Kirsch, Akazien und diverse andere jedoch ausschließlich heimische Hölzer verwendet.
-Auch Hirsch-, Wasserbüffel- und Kuh-horn sowie Vulkanfieber und Zier-Pins kommen zum Einsatz .
+Auch Hirsch-, Wasserbüffel- und Kuh-horn sowie Vulkanfiber und Zier-Pins kommen zum Einsatz .
 Das Leder für die unterschiedlichen Scheiden wird ebenfalls von mir selbst verarbeitet.
 
 In der Galerie können, meine verwendeten Materialien sowie, ein Teil meiner bisherigen Arbeiten eingesehen werden.
