@@ -1,4 +1,4 @@
-- gallerytext: "<b><u>S Alpbachtaler</u></b><br><br>Mein Beitrag zur Region.<br> Dieses Lederhosen-Messer gibt es nur in dieser Ausfertigung, Einzig 
+-gallerytext: "<b><u>S Alpbachtaler</u></b><br><br>Dies zeigt meinen Beitrag zur Region.<br> Dieses Lederhosen-Messer gibt es nur in dieser Ausfertigung, Einzig 
  das eingearbeitete Wappen aus Kirschholz am Griff-ende wird individuell mit Initialen oder Logo versehen.
  Der Griff ist aus Apfelbaum mit einer Zwischenlage aus Kramsacher Marmor. 
  Die Klinge ist aus Carbon Damast, Die Lederscheide ist punziert und gefärbt d<br>
@@ -12,7 +12,7 @@
     - title: 
       filename: "Lederhose/Alpbachtaler/02.jpg"
       description: "Gesamtansicht in der Scheide"
-      
+
     - title: 
       filename: "Lederhose/Alpbachtaler/03.jpg"
       description: "Gesamtansicht"
@@ -25,7 +25,7 @@
       filename: "Lederhose/Alpbachtaler/05.jpg"
       description: "Griff-ende, Wappen mit Initialen"
 
-    - title: 
+   - title: 
       filename: "Lederhose/Alpbachtaler/06.jpg"
       description: "Nochmals mit Hagauer Brekzie"
 
