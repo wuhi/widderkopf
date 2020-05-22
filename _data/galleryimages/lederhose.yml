@@ -1,11 +1,10 @@
-
+      
 - gallerytext: "<b><u>Das Alpbachtaler</u></b><br><br>Das Messer stellt meinen Beitrag zur Region dar.<br> 
  Es gibt dieses Lederhosen-Messer nur in dieser Ausfertigung. Unikat ist trotzdem ein jedes da Maserung von Holz Marmor und Damast 
  jedesmal vonennander abweichen.
  Einzig das eingearbeitete Wappen, aus Kirschholz, am Griff-ende wird individuell mit Initialen oder Logo versehen.
  Für den Griff wird Apfelbaum verwendet und mit einer Zwischenlage aus Kramsacher Marmor versehen. 
- Die Klinge ist aus Carbon Damast, die Lederscheide ist punziert und gefärbt <br>
-"
+ Die Klinge ist aus Carbon Damast, die Lederscheide ist punziert und gefärbt <br>"
 
   images:
     - title: 
@@ -15,24 +14,23 @@
     - title: 
       filename: "Lederhose/Alpbachtaler/02.jpg"
       description: "Gesamtansicht in der Scheide"
-
+      
     - title: 
       filename: "Lederhose/Alpbachtaler/03.jpg"
       description: "Gesamtansicht"
-
+      
+      images:
     - title: 
       filename: "Lederhose/Alpbachtaler/04.jpg"
       description: "Deteilansicht vom Griff"
-      
+
     - title: 
       filename: "Lederhose/Alpbachtaler/05.jpg"
       description: "Griff-ende, Wappen mit Initialen"
-
-   - title: 
+      
+    - title: 
       filename: "Lederhose/Alpbachtaler/06.jpg"
       description: "Nochmals mit Hagauer Brekzie"
-
-
 
 - gallerytext: "<b><u>Tapferes Schneiderlein</u></b><br><br>Messer für einen Schneidermeister zum 60er.<br> Die Klinge ist aus
  Carbon Damast, der Griff aus Hirschhorn mit Olive und gelbem Vulkanfiber. 
@@ -52,6 +50,7 @@
     - title: 
       filename: "Lederhose/Schneider/03.jpg"
       description: "Das ´Geheimfach´ mit Nadel und Faden"
+      
 
 - gallerytext: "<b><u>Bayern München</u></b><br><br>Auch echten Fans muss man gerecht werden.
 Man sieht am Griff-Ende, dass ein Einkaufs-Chip doch auch seinen Reiz haben kann.<br>
