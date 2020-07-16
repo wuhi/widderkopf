@@ -5,7 +5,7 @@ meta_title: "S`Alpbachtaler"
 subheadline: ""
 teaser: ""
 permalink: "/alpbachtaler/"
-galleryimageskey: "alpbachtaler"
+galleryimageskey: ""
 ---
 
 <img src="{{site.baseurl}}/assets/galleryimages/">
