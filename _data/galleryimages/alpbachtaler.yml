@@ -48,20 +48,20 @@
       description: "Gesamtansich mit Aufsteller"
 
     - title: 
-      filename: "Alpbachtaler/"
+      filename: "Alpbachtaler/01.jpg"
       description: "Gesamtansicht in der Scheide"
       
     - title: 
-      filename: "Alpbachtaler/"
+      filename: "Alpbachtaler/03.jpg"
       description: "Detailansicht Griff"
       
       images:
     - title: 
-      filename: "Alpbachtaler/"
+      filename: "Alpbachtaler/02.jpg"
       description: "Deteilansicht der Klinge"
 
     - title: 
-      filename: "Alpbachtaler/"
+      filename: "Alpbachtaler/04.jpg"
       description: "Griff-ende, Wappen für Initialen"
       
     - title: 
