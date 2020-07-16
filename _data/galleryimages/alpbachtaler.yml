@@ -44,27 +44,27 @@
 
   images:
     - title: 
-      filename: "Lederhose/Alpbachtaler/01.jpg"
-      description: "Gesamtansich auf Hagauer Brekzie"
+      filename: "Alpbachtaler/Alp01.jpg"
+      description: "Gesamtansich mit Aufsteller"
 
     - title: 
-      filename: "Lederhose/Alpbachtaler/02.jpg"
+      filename: "Alpbachtaler/"
       description: "Gesamtansicht in der Scheide"
       
     - title: 
-      filename: "Lederhose/Alpbachtaler/03.jpg"
-      description: "Gesamtansicht"
+      filename: "Alpbachtaler/"
+      description: "Detailansicht Griff"
       
       images:
     - title: 
-      filename: "Lederhose/Alpbachtaler/04.jpg"
-      description: "Deteilansicht vom Griff"
+      filename: "Alpbachtaler/"
+      description: "Deteilansicht der Klinge"
 
     - title: 
-      filename: "Lederhose/Alpbachtaler/05.jpg"
-      description: "Griff-ende, Wappen mit Initialen"
+      filename: "Alpbachtaler/"
+      description: "Griff-ende, Wappen für Initialen"
       
     - title: 
-      filename: "Lederhose/Alpbachtaler/06.jpg"
-      description: "Nochmals mit Hagauer Brekzie"
+      filename: "Alpbachtaler/"
+      description: "Nochmals gesamt auf Kramsacher Marmor"
 
