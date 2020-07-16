@@ -5,10 +5,10 @@ meta_title: "S`Alpbachtaler"
 subheadline: ""
 teaser: ""
 permalink: "/alpbachtaler/"
-galleryimageskey: ""
+galleryimageskey: "alpbachtaler"
 ---
 
-<img src="{{site.baseurl}}/assets/galleryimages/">
-<b>Hier meine Messer in Anlehnung an die Region. 
+
+<b> Hier meine Messer in Anlehnung an die Region. 
 <br>
 ---
