@@ -11,4 +11,3 @@ galleryimageskey: "alpbachtaler"
 
 <b> Hier meine Messer in Anlehnung an die Region. 
 <br>
----
