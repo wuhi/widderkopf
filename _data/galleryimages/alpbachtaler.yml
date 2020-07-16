@@ -1,5 +1,5 @@
       
-- gallerytext: "<b><u>Das Alpbachtaler</u></b><br><br>Das Messer stellt meinen Beitrag zur Region dar.<br> 
+- gallerytext: "<b><u>Das Alpbachtaler</u></b><br><br>Diese Messer stellen meinen Beitrag zur Region dar.<br> 
  Das Lederhosen-Messer gibt es nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
  jedesmal voneinander abweichen.
  Einzig das eingearbeitete Wappen, aus Kirschholz, am Griff-ende wird individuell mit Initialen oder Logo versehen.
@@ -32,4 +32,39 @@
       filename: "Lederhose/Alpbachtaler/06.jpg"
       description: "Nochmals mit Hagauer Brekzie"
 
+
+- gallerytext: "<b><u>Das Alpbachtaler Küchenmesser</u></b><br><br><br> 
+ Das Küchenmesser gibt es nur in dieser Ausfertigung. Ein Unikat ist trotzdem ein jedes, da Maserung von Holz, Marmor und Damast 
+ jedesmal voneinander abweichen.
+ Auch hier wird das eingearbeitete Wappen, aus Kirschholz, am Griff-ende wird individuell mit Initialen oder Logo versehen.
+ Für den Griff wird Apfelbaum Holz mit einer Zwischenlage aus Kramsacher Marmor verwendet und einer Platte aus Kupfer stellvertretend für den früheren
+ Kupferabbau in der Region. 
+ Die Klinge ist je nach Wunsch aus wildem Inox Damast, oder AEB-L Monostahl.
+ Ausgestattet wird das Messer mit punzierter und gefärbter Lederscheide sowie einem Aufsteller aus Schiefer mit Apfelbaum <br>"
+
+  images:
+    - title: 
+      filename: "Lederhose/Alpbachtaler/01.jpg"
+      description: "Gesamtansich auf Hagauer Brekzie"
+
+    - title: 
+      filename: "Lederhose/Alpbachtaler/02.jpg"
+      description: "Gesamtansicht in der Scheide"
+      
+    - title: 
+      filename: "Lederhose/Alpbachtaler/03.jpg"
+      description: "Gesamtansicht"
+      
+      images:
+    - title: 
+      filename: "Lederhose/Alpbachtaler/04.jpg"
+      description: "Deteilansicht vom Griff"
+
+    - title: 
+      filename: "Lederhose/Alpbachtaler/05.jpg"
+      description: "Griff-ende, Wappen mit Initialen"
+      
+    - title: 
+      filename: "Lederhose/Alpbachtaler/06.jpg"
+      description: "Nochmals mit Hagauer Brekzie"
 
