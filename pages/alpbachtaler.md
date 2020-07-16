@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page_with_gallery
 title: "S`Alpbachtaler"
 meta_title: "S`Alpbachtaler"
 subheadline: ""
 teaser: ""
-permalink: "/S`Alpbachtaler/"
-galleryimageskey: "S`Alpbachtaler"
+permalink: "/alpbachtaler/"
+galleryimageskey: "alpbachtaler"
 ---
 
 <img src="{{site.baseurl}}/assets/galleryimages/">
