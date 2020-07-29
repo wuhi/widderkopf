@@ -1,3 +1,52 @@
+- gallerytext: "<b><u>Alt aber bewährt</u></b><br> Ein Beil wie früher war der Wunsch. Das Ergebnis ist an vergangene Zeiten
+angelehnt, mit Griffloch für den Zeigefinger. Die Klinge, mit gravierten Initialen, ist aus rostfreiem  AEB-L Stahl, Griff Eibenholz mit Vulkanfiber und Zierpins
+Aufsteller aus Schiefer mit Eibenholz.
+ "
+  images:
+    - title:
+      filename: "Spezial/Moritz/1.jpg"
+      description: "Gesamtansicht im Aufsteller"
+    - title:
+      filename: "Spezial/Moritz/2.jpg"
+      description: "Ansicht von rechts"
+
+    - title:
+      filename: "Spezial/Moritz/3.jpg"
+      description: "Ansicht von links "
+
+    - title:
+      filename: "Spezial/Moritz/4.jpg"
+      description: "Detail Griff"
+
+
+
+- gallerytext: "<b><u>Alt aber bewährt II</u></b><br> Ein Beil wie das vorherige war der Wunsch. Es war das Geschenk eines Vaters an seinen Sohn.
+ Die Klinge ist, brüniert, mit gravierten Initialen versehen und aus rostfreiem  AEB-L Stahl, Griff uas gestockter stabilisierter Birke
+ mit Vulkanfiber und Zierpins.
+Lederschiede zum Schutz.
+ "
+  images:
+    - title:
+      filename: "Spezial/Markl/1.jpg"
+      description: "Gesamtansicht in der Scheide"
+    - title:
+      filename: "Spezial/Markl/2.jpg"
+      description: "Gesamtansicht mit Scheide"
+
+    - title:
+      filename: "Spezial/Markl/3.jpg"
+      description: "Detail Griff "
+
+    - title:
+      filename: "Spezial/Markl/4.jpg"
+      description: "Ansicht Griff von rechts"
+      
+    - title:
+      filename: "Spezial/Markl/5.jpg"
+      description: "Ansicht Griff von links"
+
+
+
 - gallerytext: "<b><u>Masterpiece</u></b><br>
 Ein Messer für die Lederhose sollte es werden, die Klinge allerdings war vom Kunden
 anhand von Bildern vorgegeben. Das Ergebnis ist aus Carbon Leitern Damast. 
