@@ -1,7 +1,7 @@
 ---
 layout: page_with_gallery
-title: "Spezialanfertigungen"
-meta_title: "Spezialanfertigungen"
+title: "Besondere Stücke"
+meta_title: "Besondere Stücke"
 subheadline: ""
 teaser: ""
 permalink: "/spezial/"
