@@ -1,8 +1,30 @@
-﻿- gallerytext: "<b><u>Kochbuch mal anders </u></b><br><br>
+﻿- gallerytext: "<b><u>Der alte Jäger </u></b><br><br> Ein Santoku aus AEB-L Monostahl, für einen passionierten Jäger als Geschenk seines Sohnes zum 60er. <br> Der Griff besteht aus stabilisiertem Apfelbaum, mit Hirsch-Horn und Neusilber als Zwinge, Zwischenlagen aus Vulkanfiber sowie Zierpin.<br>
+    Am Griff-Ende wurde eine Hirsch-Horn Platte eingelegt und mit den Initialen versehen.
+    Die Klinge ist brüniert.<br> Zur Aufbewahrung dient eine Holzbox und Lederscheide.
+"
+  images:
+    - title:
+      filename: "Kuchl/Jäger/01.jpg"
+      description: "Gesamtansicht mit Box und Scheide "
+    - title:
+      filename: "Kuchl/Jäger/02.jpg"
+      description: "Griff im Detail"
+    - title:
+      filename: "Kuchl/Jäger/03.jpg"
+      description: "Das Griff-Ende mit Hirsch-Horn Platte und Initialen"  
+    - title:
+      filename: "Kuchl/Jäger/04.jpg"
+      description: "Detailansicht der Klinge" 
+    - title:
+      filename: "Kuchl/Jäger/05.jpg"
+      description: "Gesamtansicht in der Box"    
+      
+- gallerytext: "<b><u>Kochbuch mal anders </u></b><br><br>
 Geschenk an einen guten Freund, und leidenschaftlichen Koch, zum 40er. 
 Seinen erstaunten Blick beim Öffnen des Buches, werde ich nie vergessen. 
 Die Idee zur “Verpackung” lieferte der Italo-Western Escondido in dem ein Derringer Revolver in einer Bibel versteckt war.<br>
-Bunka einseitig geschliffen, Klinge Monostahl, Griff aus Tuje mit Hirschhorn und Messingzwinge, sowie Vulkanfiber Einlagen.<br> Zu sehen sind auch die einzelnen Schritte der Fertigung"
+Bunka einseitig geschliffen, Klinge Monostahl, Griff aus Tuje mit Hirschhorn und Messingzwinge, sowie Vulkanfiber Einlagen.<br> 
+Zu sehen sind auch die einzelnen Schritte der Fertigung."
   images:
     - title:
       filename: "Kuchl/Kochbuch/01.jpg"
