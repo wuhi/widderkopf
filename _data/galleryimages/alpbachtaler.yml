@@ -43,27 +43,24 @@
 
   images:
     - title: 
-      filename: "Alpbachtaler/"
-      description: "Bild folgt noch"
+      filename: "Alpbachtaler/01"
+      description: "Gesamtansicht"
 
     - title: 
-      filename: "Alpbachtaler/01.jpg"
-      description: "Gesamtansicht in der Scheide"
+      filename: "Alpbachtaler/02.jpg"
+      description: "Gesamtansicht"
       
     - title: 
-      filename: "Alpbachtaler/03.jpg"
+      filename: "Alpbachtaler/04.jpg"
       description: "Detailansicht Griff"
       
       images:
     - title: 
-      filename: "Alpbachtaler/02.jpg"
+      filename: "Alpbachtaler/03.jpg"
       description: "Deteilansicht der Klinge"
 
     - title: 
-      filename: "Alpbachtaler/04.jpg"
+      filename: "Alpbachtaler/05.jpg"
       description: "Griff-ende, Wappen für Initialen"
       
-    - title: 
-      filename: "Alpbachtaler/"
-      description: "Bild folgt noch"
-
+    
