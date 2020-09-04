@@ -23,7 +23,7 @@ Aufsteller aus Schiefer mit Eibenholz.
 - gallerytext: "<b><u>Alt aber bewährt II</u></b><br> Ein Beil wie das vorherige war der Wunsch. Es war das Geschenk eines Vaters an seinen Sohn.
  Die Klinge ist, brüniert, mit gravierten Initialen versehen und aus rostfreiem  AEB-L Stahl, Griff uas gestockter stabilisierter Birke
  mit Vulkanfiber und Zierpins.
-Lederschiede zum Schutz.
+Lederscheide zum Schutz.
  "
   images:
     - title:
@@ -44,8 +44,29 @@ Lederschiede zum Schutz.
     - title:
       filename: "Spezial/Markl/5.jpg"
       description: "Ansicht Griff von links"
+      
 
+- gallerytext: "<b><u>Alt aber bewährt III</u></b><br> Wiederum ein Beil der ` alten Generation `.<br>
+    Gefertigt aus aus rostfreiem  AEB-L Stahl mit Kreuzschliff und gravierten Initialen versehen.<br>
+    Griff aus gestocker Buche mit Vulkanfiber und Zierpins. Lederscheide zum Schutz.
+ "
+  images:
+    - title:
+      filename: "Spezial/Gruener/5.jpg"
+      description: "Gesamtansicht in der Scheide"
+    - title:
+      filename: "Spezial/Gruener/7.jpg"
+      description: "Gesamtansicht mit Scheide"
 
+    - title:
+      filename: "Spezial/Gruener/6.jpg"
+      description: "Detail Griff "
+
+    - title:
+      filename: "Spezial/Gruener/8.jpg"
+      description: "Ansicht von rechts mit Initialen"
+      
+   
 
 - gallerytext: "<b><u>Masterpiece</u></b><br>
 Ein Messer für die Lederhose sollte es werden, die Klinge allerdings war vom Kunden

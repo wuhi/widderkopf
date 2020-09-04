@@ -1,4 +1,25 @@
-﻿- gallerytext: "<b><u>Der alte Jäger </u></b><br><br> Ein Santoku aus AEB-L Monostahl, für einen passionierten Jäger als Geschenk seines Sohnes zum 60er. <br> Der Griff besteht aus stabilisiertem Apfelbaum, mit Hirsch-Horn und Neusilber als Zwinge, Zwischenlagen aus Vulkanfiber sowie Zierpin.<br>
+﻿- gallerytext: "<b><u>Gruß ins Ötztal</u></b><br><br> Ein besonderes Geschenk zum Geburtstag für den Mann der Auftraggeberin.<br>
+    Eine spezielle Klinge in gebogener Bunka Form aus Balbach Inox Damast. <br> 
+    Der Griff besteht aus Zwetschkenbaumholz mit Einlagen aus Hirsch und Wasserbüffel-Horn , Zwischenlagen aus Vulkanfiber sowie Zierpin.<br>
+    Die Zwinge ist ebenfalls aus Inox Damast gefertigt, am Griff-ende wurden die Initialen eingearbeitet.<br>
+    Aufsteller aus Schiefer mit Zwetschkenbaumholz.
+"
+  images:
+    - title:
+      filename: "Kuchl/Oetz/01.jpg"
+      description: "Gesamtansicht im Aufsteller "
+    - title:
+      filename: "Kuchl/Oetz/02.jpg"
+      description: "Detailansicht der Klinge"
+    - title:
+      filename: "Kuchl/Oetz/03.jpg"
+      description: "Griff im Detail"  
+    - title:
+      filename: "Kuchl/Oetz/04.jpg"
+      description: "Detailansicht Griff-ende mit Initialen" 
+       
+
+- gallerytext: "<b><u>Der alte Jäger </u></b><br><br> Ein Santoku aus AEB-L Monostahl, für einen passionierten Jäger als Geschenk seines Sohnes zum 60er. <br> Der Griff besteht aus stabilisiertem Apfelbaum, mit Hirsch-Horn und Neusilber als Zwinge, Zwischenlagen aus Vulkanfiber sowie Zierpin.<br>
     Am Griff-Ende wurde eine Hirsch-Horn Platte eingelegt und mit den Initialen versehen.
     Die Klinge ist brüniert.<br> Zur Aufbewahrung dient eine Holzbox und Lederscheide.
 "
