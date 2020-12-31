@@ -1,11 +1,11 @@
-﻿    - gallerytext: "<b><u>T3</u></b><br><br> Diese beiden Messer waren als Geschenk einer Mutter an ihren Sohn, in Kombination Geburtstag und Weihnachten. <br>
+﻿- gallerytext: "<b><u>T3</u></b><br><br> Diese beiden Messer waren als Geschenk einer Mutter an ihren Sohn, in Kombination Geburtstag und Weihnachten. <br>
     Im Gespräch ergab sich der zu beschenkende besitzt einen T3 Bus, in Anlehnung daran entstand die leicht kantige Form sowie die Farbkombination.<br>    
     Die Klingen sind als Santoku und Fleichmesser Form aus 120ig lagigem Balbach Inox Damast gearbeitet. <br> 
     Die Griffe bestehen aus Zwetschge und Wacholder mit rotem Vulanfiber und Büffelhorn .<br>
     Zwingen sind ebenfalls aus Inox Damast gefertigt, am Griffende wurden die Initialen eingearbeitet.<br>
     Der Kombi Aufsteller ist ebenfalls aus Zwetschge mit Wacholder auf einer Schieferplatte .
-"   
-   images:
+" 
+  images:
     - title:
       filename: "Kuchl/Bracco_2/01.jpg"
       description: "Gesamtansicht mit Aufsteller"
@@ -23,7 +23,7 @@
       description: "Ansicht von rechts" 
     - title:
       filename: "Kuchl/Bracco_2/06.jpg"  
-      description: "Ansicht von links" 
+      description: "Ansicht von links"  
 
 - gallerytext: "<b><u>Tandem mal Zwei</u></b><br><br> Diese 4er Kombination ist einerseits für die Kundin selbst sowie für ihre Schweigermutter zum Christkind <br>
     Eine Herausforderung war hier, nahezu idente Zwillinge zu fertigen. <br>
@@ -45,6 +45,8 @@
     - title:
       filename: "Kuchl/Bracco/04.jpg"
       description: "Detailansicht Griff" 
+
+
 
 - gallerytext: "<b><u>Gruß ins Ötztal</u></b><br><br> Ein besonderes Geschenk zum Geburtstag für den Mann der Auftraggeberin.<br>
     Eine spezielle Klinge in gebogener Bunka Form aus Balbach Inox Damast. <br> 
