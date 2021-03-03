@@ -31,6 +31,10 @@
     - title: "Besondere Stücke"
       url: "/spezial/"
       side: left
+
+- title: Verkaufsladen
+  url: "/Laden/"
+  side: left
   
 - title: "Datenschutz"
   url: "/datenschutz/"
@@ -38,4 +42,4 @@
 
 - title: Kontakt / Impressum
   url: "/kontakt/"
-  side: right
+  side: left
