@@ -10,9 +10,27 @@ permalink: "/kontakt/"
 ---
 <form method="POST" action="https://formspree.io/widderkopf.messer@gmail.com">
   <input type="email" name="email" placeholder="Deine E-Mailadresse">
-  <textarea name="message" placeholder="Dein Text"></textarea>
+  <textarea id="message" name="message" placeholder="Dein Text"></textarea>
   <button type="submit">Mail senden</button>
 </form>
+
+<script>
+function getParameterByName(name, url = window.location.href) {
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+  
+  window.onload = function () {
+        var text = getParameterByName("messagetext");
+        if(typeof(text) == "string"){
+          document.getElementById("message").value = text;
+        }
+  }
+</script>
 
 ---
 <b>Impressum
