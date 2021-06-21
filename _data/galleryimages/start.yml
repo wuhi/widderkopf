@@ -1,50 +1,53 @@
-- gallerytext: "Mehr findest du in den jeweiligen Unterkategorien"
+- gallerytext: "Mehr findest du in `  Weitere Messer Kategorien ´"
   customStyle: "margin-bottom: 100px;"
+  
+  
   images:
-    - title: "Traditionelles"
+    - title: "Traditionelles..."
       filename: "start/001.jpg"
       description: "Bring me Edelweiß"
+            
 
-    - title: "Traditionelles"
+    - title: "Traditionelles..."
       filename: "start/Schneider.jpg"
       description: "Schneidermeister"
      
-    - title: "Traditionelles"
+    - title: "Traditionelles..."
       filename: "start/Bayern.jpg"
       description: "Bayern"
 
-    - title: "Scharfes"
+    - title: "Scharfes..."
       filename: "start/Kochbuch.jpg"
       description: "Kochbuch mal anders"
 
-    - title: "Scharfes"
+    - title: "Scharfes..."
       filename: "start/B&S1.jpg"
       description: "Brüderchen und Schwesterchen"           
     
-    - title: "Scharfes"
+    - title: "Scharfes..."
       filename: "start/Reise.jpg"
       description: "Auf großer Reise"
       
-    - title: "Latein"
+    - title: "Latein..."
       filename: "start/Siegi.jpg"
       description: "Jaga"
 
-    - title: "Latein"
-      filename: "start/Jause.jpg"
-      description: "Jausn"    
+    - title: "Latein..."
+      filename: "start/Lederhose trifft Fischer.jpg"
+      description: "Lederhose trifft Fischer"    
 
-    - title: "Latein"
+    - title: "Latein..."
       filename: "start/Fischer1.jpg"
       description: "Fischermanns Freund"
 
-    - title: "Spezial"
+    - title: "Besondere Stücke"
       filename: "start/01.jpg"
       description: "Wilde Reiterei"
 
-    - title: "Spezial"
-      filename: "start/Ursler.jpg"
-      description: "Masterpiece"    
+    - title: "Besondere Stücke"
+      filename: "start/Papa.jpg"
+      description: "Geburtstag Papa"    
 
-    - title: "Spezial"
+    - title: "Besondere Stücke"
       filename: "start/Toni.jpg"
       description: "Alter Apfel"
