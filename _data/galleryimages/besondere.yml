@@ -4,20 +4,20 @@ Die Gravur (Scrimshaw) zeigt seinen Namens-Patron den Hl. Georg. Lederscheide wu
  "
   images:
     - title:
-      filename: "Spezial/Papa/01.jpg"
+      filename: "besondere/Papa/01.jpg"
       description: "Gesamtansicht"
     - title:
-      filename: "Spezial/Papa/05.jpg"
+      filename: "besondere/Papa/02.jpg"
       description: "Ansicht Klingenrücken"
     - title:
-      filename: "Spezial/Papa/05.jpg"
+      filename: "besondere/Papa/03.jpg"
       description: "Ansicht Griff mit Gravur"
     - title:
-      filename: "Spezial/Papa/06.jpg"
+      filename: "besondere/Papa/04.jpg"
       description: "Gesamtansicht links"
 
     - title:
-      filename: "Spezial/Papa/07.jpg"
+      filename: "besondere/Papa/05.jpg"
       description: "Gesamtansicht in fer Scheide"
 
 - gallerytext: "<b><u>Kleiner Helfer</u></b><br> Ein handliches Allzweckmesser wurde von meiner Lebensgefährtin gewünscht, das ist entstanden.<br>
@@ -25,14 +25,14 @@ Die Klinge mit Fingerloch hat eine Länge von 12cm und ist aus 14C28N Stahl. Der
  "
   images:
     - title:
-      filename: "Spezial/Kruemel/05.jpg"
+      filename: "besondere/Kruemel/05.jpg"
       description: "Gesamtansicht"
     - title:
-      filename: "Spezial/Kruemel/06.jpg"
+      filename: "besondere/Kruemel/06.jpg"
       description: "Detail Griffrücken"
 
     - title:
-      filename: "Spezial/Kruemel/07.jpg"
+      filename: "besondere/Kruemel/07.jpg"
       description: "Detail Griff seitlich"
 
    
@@ -43,18 +43,18 @@ Aufsteller aus Schiefer mit Eibenholz.
  "
   images:
     - title:
-      filename: "Spezial/Moritz/1.jpg"
+      filename: "besondere/Moritz/1.jpg"
       description: "Gesamtansicht im Aufsteller"
     - title:
-      filename: "Spezial/Moritz/2.jpg"
+      filename: "besondere/Moritz/2.jpg"
       description: "Ansicht von rechts"
 
     - title:
-      filename: "Spezial/Moritz/3.jpg"
+      filename: "besondere/Moritz/3.jpg"
       description: "Ansicht von links "
 
     - title:
-      filename: "Spezial/Moritz/4.jpg"
+      filename: "besondere/Moritz/4.jpg"
       description: "Detail Griff"
 
 
@@ -66,22 +66,22 @@ Lederscheide zum Schutz.
  "
   images:
     - title:
-      filename: "Spezial/Markl/1.jpg"
+      filename: "besondere/Markl/1.jpg"
       description: "Gesamtansicht in der Scheide"
     - title:
-      filename: "Spezial/Markl/2.jpg"
+      filename: "besondere/Markl/2.jpg"
       description: "Gesamtansicht mit Scheide"
 
     - title:
-      filename: "Spezial/Markl/3.jpg"
+      filename: "besondere/Markl/3.jpg"
       description: "Detail Griff "
 
     - title:
-      filename: "Spezial/Markl/4.jpg"
+      filename: "besondere/Markl/4.jpg"
       description: "Ansicht Griff von rechts"
       
     - title:
-      filename: "Spezial/Markl/5.jpg"
+      filename: "besondere/Markl/5.jpg"
       description: "Ansicht Griff von links"
       
 
@@ -91,18 +91,18 @@ Lederscheide zum Schutz.
  "
   images:
     - title:
-      filename: "Spezial/Gruener/5.jpg"
+      filename: "besondere/Gruener/5.jpg"
       description: "Gesamtansicht in der Scheide"
     - title:
-      filename: "Spezial/Gruener/7.jpg"
+      filename: "besondere/Gruener/7.jpg"
       description: "Gesamtansicht mit Scheide"
 
     - title:
-      filename: "Spezial/Gruener/6.jpg"
+      filename: "besondere/Gruener/6.jpg"
       description: "Detail Griff "
 
     - title:
-      filename: "Spezial/Gruener/8.jpg"
+      filename: "besondere/Gruener/8.jpg"
       description: "Ansicht von rechts mit Initialen"
       
    
@@ -115,23 +115,23 @@ verwendet. Die Lederscheide wurde angepasst und mit einem zweifärbigen Wickelve
 "
   images:
     - title: ""
-      filename: "Spezial/Ursler/01.jpg"
+      filename: "besondere/Ursler/01.jpg"
       description: "Gesamtansicht in der Scheide"
 
     - title: ""
-      filename: "Spezial/Ursler/02.jpg"
+      filename: "besondere/Ursler/02.jpg"
       description: "Gesamtansicht mit Scheide"
 
     - title: ""
-      filename: "Spezial/Ursler/03.jpg"
+      filename: "besondere/Ursler/03.jpg"
       description: "Detail der Klinge"
 
     - title: ""
-      filename: "Spezial/Ursler/04.jpg"
+      filename: "besondere/Ursler/04.jpg"
       description: "Detailansicht Parierstück"
 
     - title: ""
-      filename: "Spezial/Ursler/05.jpg"
+      filename: "besondere/Ursler/05.jpg"
       description: "Ansicht Rose mit Holzeinlage und Logo"
 
 
@@ -234,21 +234,21 @@ Zum Schutz der Klinge dient eine Lederscheide.
  "
   images:
     - title:
-      filename: "Spezial/Toni/01.jpg"
+      filename: "besondere/Toni/01.jpg"
       description: "Am Anfang war das Sägeblatt"
     - title:
-      filename: "Spezial/Toni/02.jpg"
+      filename: "besondere/Toni/02.jpg"
       description: "Nach einiger Zeit"
 
     - title:
-      filename: "Spezial/Toni/03.jpg"
+      filename: "besondere/Toni/03.jpg"
       description: "Zu guter letzt das Ergebnis "
 
     - title:
-      filename: "Spezial/Toni/04.jpg"
+      filename: "besondere/Toni/04.jpg"
       description: "Detail Griff"
 
     - title:
-      filename: "Spezial/Toni/05.jpg"
+      filename: "besondere/Toni/05.jpg"
       description: "Detail Klinge "
       
